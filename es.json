@@ -22,5 +22,9 @@
     "login-user-error": "Introduzca un e-mail válido",
     "login-password": "Password",
     "login-password-placeholder": "Introduzca la clave de acceso",
-    "login-password-error": "Se requiere una clave de acceso"
+    "login-password-error": "Se requiere una clave de acceso",
+    "login-forgotten-password": "¿Ha olvidado su contraseña?",
+    "login-button": "Acceder",
+    "login-no-account": "¿Aún no dispone de una cuenta?",
+    "login-create-account": "Regístrese como colegio"
 }
