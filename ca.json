@@ -20,7 +20,11 @@
     "login-user": "Usuari",
     "login-user-placeholder": "Introduïu l'usuari / correu electrònic",
     "login-user-error": "Introduïu un e-mail vàlid",
-    "login-password": "Clau",
-    "login-password-placeholder": "Introduïu la clau d'accés",
-    "login-password-error": "Es requereix una clau d'accés"
+    "login-password": "Contrasenya",
+    "login-password-placeholder": "Introduïu la contrasenya d'accés",
+    "login-password-error": "Es requereix una contrasenya d'accés",
+    "login-forgotten-password": "¿Ha oblidat la seva contrasenya?",
+    "login-button": "Entrar",
+    "login-no-account": "¿Encara no disposa d'un compte?",
+    "login-create-account": "Fes-com a col·legi"
 }
