@@ -14,5 +14,13 @@
     
     "img-claim-blue": "img-claim-blue__en",
     "img-claim-orange": "img-claim-orange__en",
-    "img-logo-fund": "img-logo-fund__en"
+    "img-logo-fund": "img-logo-fund__en",
+    
+    "login-title": "User access",
+    "login-user": "User",
+    "login-user-placeholder": "Insert user / e-mail",
+    "login-user-error": "Insert a valid e-mail",
+    "login-password": "Password",
+    "login-password-placeholder": "Insert access password",
+    "login-password-error": "Password is required"
 }
