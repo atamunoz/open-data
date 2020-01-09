@@ -14,5 +14,13 @@
 
     "img-claim-blue": "img-claim-blue__ca",
     "img-claim-orange": "img-claim-orange__ca",
-    "img-logo-fund": "img-logo-fund__ca"
+    "img-logo-fund": "img-logo-fund__ca",
+    
+    "login-title": "Accés d'usuari",
+    "login-user": "Usuari",
+    "login-user-placeholder": "Introduïu l'usuari / correu electrònic",
+    "login-user-error": "Introduïu un e-mail vàlid",
+    "login-password": "Clau",
+    "login-password-placeholder": "Introduïu la clau d'accés",
+    "login-password-error": "Es requereix una clau d'accés"
 }
