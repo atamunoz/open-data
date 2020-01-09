@@ -14,5 +14,13 @@
     
     "img-claim-blue": "img-claim-blue__es",
     "img-claim-orange": "img-claim-orange__es",
-    "img-logo-fund": "img-logo-fund__es"
+    "img-logo-fund": "img-logo-fund__es",
+    
+    "login-title": "Acceso de usuario",
+    "login-user": "Usuario",
+    "login-user-placeholder": "Introduzca el usuario / correo electrónico",
+    "login-user-error": "Introduzca un e-mail válido",
+    "login-password": "Password",
+    "login-password-placeholder": "Introduzca la clave de acceso",
+    "login-password-error": "Se requiere una clave de acceso"
 }
