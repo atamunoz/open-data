@@ -1,0 +1,18 @@
+{
+    "@metadata": {
+        "authors": [
+            "GeoWE"
+        ],
+        "last-updated": "2019-11-22",
+        "locale": "en"
+    },
+    "appname-title": "E-Quest II",
+    "appname-sub-title": "Qüestionari de violència escolar",
+    "appname-header-introduction": "Introducció",
+    "appname-about": "Foundatió Barça",
+    "appname-footer": "@GeoWE.org",
+
+    "img-claim-blue": "img-claim-blue__ca",
+    "img-claim-orange": "img-claim-orange__ca",
+    "img-logo-fund": "img-logo-fund__ca"
+}
