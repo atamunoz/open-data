@@ -11,5 +11,8 @@
     "appname-header-introduction": "Introducción",
     "appname-about": "Fundación Barça",
     "appname-footer": "@GeoWE.org",
-    "claim": "claim__es"
+    
+    "img-claim-blue": "img-claim-blue__es",
+    "img-claim-orange": "img-claim-orange__es",
+    "img-logo-fund": "img-logo-fund__es"
 }
