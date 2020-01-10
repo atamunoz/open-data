@@ -16,6 +16,9 @@
     "img-claim-orange": "img-claim-orange__ca",
     "img-logo-fund": "img-logo-fund__ca",
     
+    "menu-home": "Inici",
+    "menu-exit": "Sortir",
+    
     "login-title": "Accés d'usuari",
     "login-user": "Usuari",
     "login-user-placeholder": "Introduïu l'usuari / correu electrònic",
