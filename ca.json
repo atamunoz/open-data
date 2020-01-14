@@ -29,5 +29,14 @@
     "login-forgotten-password": "¿Ha oblidat la seva contrasenya?",
     "login-button": "Entrar",
     "login-no-account": "¿Encara no disposa d'un compte?",
-    "login-create-account": "Fes-com a col·legi"
+    "login-create-account": "Fes-com a col·legi",
+    
+    "dashboard-option-surveys-title": "Gestionar recollides",
+    "dashboard-option-surveys-description": "Programar noves recollides, consultar i / o modificar recollides existents",
+    "dashboard-option-schools-title": "Gestionar escoles",
+    "dashboard-option-schools-desc": "Veure llistat dels col·legis registrats, donar d'alta nous col·legis i / o modificar les seves dades",
+    "dashboard-option-results-title": "Resultats de les enquestes",
+    "dashboard-option-results-desc": "Veure i explotar les respostes obtingudes dels qüestionaris, exportar les dades a fitxers CSV",
+    "dashboard-option-profile-title": "El meu perfil",
+    "dashboard-option-profile-desc": "Veure i / o modificar les meves dades personals i el meu clau d'accés"
 }
