@@ -44,9 +44,9 @@
     "dashboard-option-surveys-title": "Manage surveys",
     "dashboard-option-surveys-description": "Schedule new surveys, view and / or modify existing surveys",
     "dashboard-option-schools-title": "Manage schools",
-    "dashboard-option-schools-desc": "View a list of registered schools, register new schools and / or modify their data",
+    "dashboard-option-schools-description": "View a list of registered schools, register new schools and / or modify their data",
     "dashboard-option-results-title": "Survey results",
-    "dashboard-option-results-desc": "View and analyze the answers obtained from the questionnaires, export data into CSV files",
+    "dashboard-option-results-description": "View and analyze the answers obtained from the questionnaires, export data into CSV files",
     "dashboard-option-profile-title": "My profile",
-    "dashboard-option-profile-desc": "View and / or modify my personal data and my password"
+    "dashboard-option-profile-description": "View and / or modify my personal data and my password"
 }
