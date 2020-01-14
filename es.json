@@ -17,7 +17,17 @@
     "img-logo-fund": "img-logo-fund__es",
     
     "menu-home": "Inicio",
+    "menu-home-tooltip": "Regresar al dashboard",
+    "menu-surveys": "Recogidas",
+    "menu-surveys-tooltip": "Gestionar las recogidas de datos",
+    "menu-schools": "Colegios",
+    "menu-schools-tooltip": "Gestionar los colegios registrados en el programa",
+    "menu-results": "Resultados",
+    "menu-results-tooltip": "Consultar los resultados de las encuestas realizadas",
+    "menu-profile": "Perfil",
+    "menu-profile-tooltip": "Gestionar mis datos de usuario y clave de acceso",
     "menu-exit": "Salir",
+    "menu-exit-tooltip": "Cerrar sesión y salir de la aplicación",
     
     "login-title": "Acceso de usuario",
     "login-user": "Usuario",
