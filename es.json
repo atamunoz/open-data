@@ -29,5 +29,14 @@
     "login-forgotten-password": "¿Ha olvidado su contraseña?",
     "login-button": "Acceder",
     "login-no-account": "¿Aún no dispone de una cuenta?",
-    "login-create-account": "Regístrese como colegio"
+    "login-create-account": "Regístrese como colegio",
+    
+    "dashboard-option-surveys-title": "Gestionar recogidas",
+    "dashboard-option-surveys-description": "Programar nuevas recogidas, consultar y/o modificar recogidas existentes",
+    "dashboard-option-schools-title": "Gestionar colegios",
+    "dashboard-option-schools-desc": "Ver listado de los colegios registrados, dar de alta nuevos colegios y/o modificar sus datos",
+    "dashboard-option-results-title": "Resultados de las encuestas",
+    "dashboard-option-results-desc": "Ver y explotar las respuestas obtenidas de los cuestionarios, exportar los datos a ficheros CSV",
+    "dashboard-option-profile-title": "Mi perfil",
+    "dashboard-option-profile-desc": "Ver y/o modificar mis datos personales y mi clave de acceso"
 }
