@@ -17,7 +17,17 @@
     "img-logo-fund": "img-logo-fund__en",
     
     "menu-home": "Home",
+    "menu-home-tooltip": "Return to dashboard",
+    "menu-surveys": "Surveys",
+    "menu-surveys-tooltip": "Manage and schedule surveys",
+    "menu-schools": "Schools",
+    "menu-schools-tooltip": "Manage registered schools",
+    "menu-results": "Results",
+    "menu-results-tooltip": "View and export surveys results",
+    "menu-profile": "Profile",
+    "menu-profile-tooltip": "Manage user data and password",
     "menu-exit": "Exit",
+    "menu-exit-tooltip": "Close session and exit the application",
     
     "login-title": "User access",
     "login-user": "User",
