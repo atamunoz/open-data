@@ -17,7 +17,17 @@
     "img-logo-fund": "img-logo-fund__ca",
     
     "menu-home": "Inici",
+    "menu-home-tooltip": "Tornar a l'dashboard",
+    "menu-surveys": "Recollides",
+    "menu-surveys-tooltip": "Gestionar les recollides de dades",
+    "menu-schools": "Col·legis",
+    "menu-schools-tooltip": "Gestionar els col·legis registrats al programa",
+    "menu-results": "Resultats",
+    "menu-results-tooltip": "Consultar els resultats de les enquestes realitzades",
+    "menu-profile": "Perfil",
+    "menu-profile-tooltip": "Gestionar les meves dades d'usuari i clau d'accés",
     "menu-exit": "Sortir",
+    "menu-exit-tooltip": "Tancar sessió i sortir de l'aplicació",
     
     "login-title": "Accés d'usuari",
     "login-user": "Usuari",
