@@ -31,11 +31,9 @@
     
     "login-title": "Accés d'usuari",
     "login-user": "Usuari",
-    "login-user-placeholder": "Introduïu l'usuari / correu electrònic",
-    "login-user-error": "Introduïu un e-mail vàlid",
+    "login-user-placeholder": "Introduïu l'usuari / correu electrònic",    
     "login-password": "Contrasenya",
-    "login-password-placeholder": "Introduïu la contrasenya d'accés",
-    "login-password-error": "Es requereix una contrasenya d'accés",
+    "login-password-placeholder": "Introduïu la contrasenya d'accés",    
     "login-forgotten-password": "¿Ha oblidat la seva contrasenya?",
     "login-button": "Entrar",
     "login-no-account": "¿Encara no disposa d'un compte?",
@@ -72,5 +70,9 @@
     "school-section-primary-placeholder": "Educació primària",
     "school-section-secondary-placeholder": "Educació secundària",
     "school-section-button-new": "Registrar col·legi",
-    "school-section-button-edit": "Desa els canvis"
+    "school-section-button-edit": "Desa els canvis",
+    
+    "validation-field-required": "Aquest camp és obligatori",
+    "validation-email-format": "Introduïu un e-mail vàlid",
+    "validation-password-required": "Es requereix una contrasenya d'accés"
 }
