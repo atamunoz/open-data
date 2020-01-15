@@ -31,11 +31,9 @@
     
     "login-title": "User access",
     "login-user": "User",
-    "login-user-placeholder": "Insert user / e-mail",
-    "login-user-error": "Insert a valid e-mail",
+    "login-user-placeholder": "Insert user / e-mail",    
     "login-password": "Password",
-    "login-password-placeholder": "Insert access password",
-    "login-password-error": "Password is required",
+    "login-password-placeholder": "Insert access password",    
     "login-forgotten-password": "Forgot your passoword?",
     "login-button": "Sign in",
     "login-no-account": "Don't you have an account?",
@@ -72,5 +70,9 @@
     "school-section-primary-placeholder": "Primary education",
     "school-section-secondary-placeholder": "Secondary education",
     "school-section-button-new": "Sign up",
-    "school-section-button-edit": "Save changes"
+    "school-section-button-edit": "Save changes",
+    
+    "validation-field-required": "This field is required",
+    "validation-email-format": "Insert a valid e-mail",
+    "validation-password-required": "Password is required"
 }
