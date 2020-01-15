@@ -31,11 +31,9 @@
     
     "login-title": "Acceso de usuario",
     "login-user": "Usuario",
-    "login-user-placeholder": "Introduzca el usuario / correo electrónico",
-    "login-user-error": "Introduzca un e-mail válido",
+    "login-user-placeholder": "Introduzca el usuario / correo electrónico",    
     "login-password": "Password",
-    "login-password-placeholder": "Introduzca la clave de acceso",
-    "login-password-error": "Se requiere una clave de acceso",
+    "login-password-placeholder": "Introduzca la clave de acceso",    
     "login-forgotten-password": "¿Ha olvidado su contraseña?",
     "login-button": "Acceder",
     "login-no-account": "¿Aún no dispone de una cuenta?",
@@ -72,5 +70,9 @@
     "school-section-primary-placeholder": "Educación primaria",
     "school-section-secondary-placeholder": "Educación secundaria",
     "school-section-button-new": "Registrar colegio",
-    "school-section-button-edit": "Guardar cambios"
+    "school-section-button-edit": "Guardar cambios",
+    
+    "validation-field-required": "Este campo es obligatorio",
+    "validation-email-format": "Introduzca un e-mail válido",
+    "validation-password-required": "Se requiere una clave de acceso"
 }
