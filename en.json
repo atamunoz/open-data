@@ -6,7 +6,7 @@
         "last-updated": "2019-11-22",
         "locale": "en"
     },
-    "appname-title": "E-Quest II",
+    "appname-title": "Anti-bullying <br/> program",
     "appname-sub-title": "School violence questionnaire",
     "appname-header-introduction": "Introduction",
     "appname-about": "Barça Foundation",
@@ -14,6 +14,7 @@
     
     "img-claim-blue": "img-claim-blue__en",
     "img-claim-orange": "img-claim-orange__en",
+    "img-claim-white": "img-claim-white__en",
     "img-logo-fund": "img-logo-fund__en",
     
     "menu-home": "Home",
