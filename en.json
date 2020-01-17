@@ -44,6 +44,8 @@
     "login-button": "Sign in",
     "login-no-account": "Don't you have an account?",
     "login-create-account": "Please, register now as a school",
+    "login-error-dialog-title": "Access error",
+    "login-error-400": "Access denied: Invalid credentials. Please check your email and password, and try again",
     
     "dashboard-option-surveys-title": "Manage surveys",
     "dashboard-option-surveys-description": "Schedule new surveys, view and / or modify existing surveys",
