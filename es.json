@@ -30,6 +30,10 @@
     "menu-profile-tooltip": "Gestionar mis datos de usuario y clave de acceso",
     "menu-exit": "Salir",
     "menu-exit-tooltip": "Cerrar sesión y salir de la aplicación",
+
+    "modal-button-accept": "Aceptar",
+    "modal-button-cancel": "Cancelar",
+    "modal-button-close": "Cerrar",
     
     "login-title": "Acceso de usuario",
     "login-user": "Usuario",

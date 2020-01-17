@@ -30,6 +30,10 @@
     "menu-profile-tooltip": "Manage user data and password",
     "menu-exit": "Exit",
     "menu-exit-tooltip": "Close session and exit the application",
+
+    "modal-button-accept": "Accept",
+    "modal-button-cancel": "Cancel",
+    "modal-button-close": "Close",
     
     "login-title": "User access",
     "login-user": "User",

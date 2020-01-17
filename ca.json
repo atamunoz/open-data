@@ -30,6 +30,10 @@
     "menu-profile-tooltip": "Gestionar les meves dades d'usuari i clau d'accés",
     "menu-exit": "Sortir",
     "menu-exit-tooltip": "Tancar sessió i sortir de l'aplicació",
+
+    "modal-button-accept": "Acceptar",
+    "modal-button-cancel": "Cancel·lar",
+    "modal-button-close": "Tancar",
     
     "login-title": "Accés d'usuari",
     "login-user": "Usuari",
