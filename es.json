@@ -79,6 +79,7 @@
     "school-section-secondary-placeholder": "Educación secundaria",
     "school-section-button-new": "Registrar colegio",
     "school-section-button-edit": "Guardar cambios",
+    "school-section-signup-ok": "Estimado {{name}} {{surname}}, <br /> Hemos recibido correctamente toda la información de su colegio, por lo que a partir de este momento queda registrado en nuestro programa. <br /> Muchas gracias por su participación.",
     
     "validation-field-required": "Este campo es obligatorio",
     "validation-email-format": "Introduzca un e-mail válido",
