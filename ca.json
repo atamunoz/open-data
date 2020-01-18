@@ -34,6 +34,11 @@
     "modal-button-accept": "Acceptar",
     "modal-button-cancel": "Cancel·lar",
     "modal-button-close": "Tancar",
+
+    "data-load-error-dialog-title": "Error en la càrrega de les dades",
+    "data-load-error-dialog-message": "S'ha produït un error {{status}} a l'carregar de les dades de {{objet}}. El detall de l'error és el següent: <br /> {{message}} <br /> Si us plau, torneu a intentar-ho més tard.",
+    "data-save-error-dialog-title": "Error en el guardat de les dades",
+    "data-save-error-dialog-message": "No s'han pogut desar correctament les dades. El detall de l'error és el següent: <br /> {{message}} <br /> Si us plau, revisi detingudament totes les dades i torneu a provar més tard.",
     
     "login-title": "Accés d'usuari",
     "login-user": "Usuari",

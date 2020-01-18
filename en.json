@@ -34,6 +34,11 @@
     "modal-button-accept": "Accept",
     "modal-button-cancel": "Cancel",
     "modal-button-close": "Close",
+
+    "data-load-error-dialog-title": "Data loading error",
+    "data-load-error-dialog-message": "An error {{status}} occurred while loading {{objet}} data. The error detail is as follows: <br /> {{message}} <br /> Please try again later.",
+    "data-save-error-dialog-title": "Failed to save data",
+    "data-save-error-dialog-message": "Failed to save data correctly. The error detail is as follows: <br /> {{message}} <br /> Please review all the data carefully and try again later.",
     
     "login-title": "User access",
     "login-user": "User",
