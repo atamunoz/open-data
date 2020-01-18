@@ -84,7 +84,7 @@
     "school-section-secondary-placeholder": "Educació secundària",
     "school-section-button-new": "Registrar col·legi",
     "school-section-button-edit": "Desa els canvis",
-    "school-section-signup-ok": "Apreciat/da {{name}} {{surname}}, <br /> Hem rebut correctament tota la informació del seu col·legi, pel que a partir d'aquest moment queda registrat en el nostre programa. <br /> Moltes gràcies per la seva participació.",
+    "school-section-signup-ok": "Apreciat/da {{name}} {{surname}}, <br /><br /> Hem rebut correctament tota la informació del seu col·legi, pel que a partir d'aquest moment queda registrat en el nostre programa. <br /><br /> Moltes gràcies per la seva participació.",
     
     "validation-field-required": "Aquest camp és obligatori",
     "validation-email-format": "Introduïu un e-mail vàlid",
