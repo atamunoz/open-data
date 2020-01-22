@@ -87,6 +87,7 @@
     "school-section-signup-ok": "Estimado {{name}} {{surname}}, <br /><br /> Hemos recibido correctamente toda la información de su colegio, por lo que a partir de este momento queda registrado en nuestro programa. <br /><br /> Muchas gracias por su participación.",
     
     "validation-field-required": "Este campo es obligatorio",
+    "validation-question-required": "Debes contestar esta pregunta para continuar",
     "validation-email-format": "Introduzca un e-mail válido",
     "validation-password-required": "Se requiere una clave de acceso"
 }

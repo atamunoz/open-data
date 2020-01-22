@@ -87,6 +87,7 @@
     "school-section-signup-ok": "Dear {{name}} {{surname}}, <br /><br /> We have correctly received all the information from your school, so from this moment you are registered in our program. <br /><br /> Thank you very much for your participation.",
     
     "validation-field-required": "This field is required",
+    "validation-question-required": "You must answer this question to continue",
     "validation-email-format": "Insert a valid e-mail",
     "validation-password-required": "Password is required"
 }

@@ -87,6 +87,7 @@
     "school-section-signup-ok": "Apreciat/da {{name}} {{surname}}, <br /><br /> Hem rebut correctament tota la informació del seu col·legi, pel que a partir d'aquest moment queda registrat en el nostre programa. <br /><br /> Moltes gràcies per la seva participació.",
     
     "validation-field-required": "Aquest camp és obligatori",
+    "validation-question-required": "Has contestar aquesta pregunta per continuar",
     "validation-email-format": "Introduïu un e-mail vàlid",
     "validation-password-required": "Es requereix una contrasenya d'accés"
 }
