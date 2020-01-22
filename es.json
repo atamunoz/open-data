@@ -34,6 +34,8 @@
     "modal-button-accept": "Aceptar",
     "modal-button-cancel": "Cancelar",
     "modal-button-close": "Cerrar",
+    "modal-button-next": "Siguiente",
+    "modal-button-finish": "Finalizar",
 
     "data-load-error-dialog-title": "Error en la carga de los datos",
     "data-load-error-dialog-message": "Se ha producido un error {{status}} al cargar los datos. El detalle del error es el siguiente: <br /><br />{{message}}<br /><br /> Por favor, vuelva a intentarlo más tarde.",

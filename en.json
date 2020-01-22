@@ -34,6 +34,8 @@
     "modal-button-accept": "Accept",
     "modal-button-cancel": "Cancel",
     "modal-button-close": "Close",
+    "modal-button-next": "Next",
+    "modal-button-finish": "Finish",
 
     "data-load-error-dialog-title": "Data loading error",
     "data-load-error-dialog-message": "An error {{status}} occurred while loading data. The error detail is as follows: <br /><br /> {{message}} <br /><br /> Please try again later.",
