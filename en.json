@@ -41,6 +41,8 @@
     "data-load-error-dialog-message": "An error {{status}} occurred while loading data. The error detail is as follows: <br /><br /> {{message}} <br /><br /> Please try again later.",
     "data-save-error-dialog-title": "Failed to save data",
     "data-save-error-dialog-message": "Failed to save data correctly. The error detail is as follows: <br /><br /> {{message}} <br /><br /> Please review all the data carefully and try again later.",
+    "access-code-error-dialog-title": "User access failed",
+    "access-code-error-dialog-message": "The access code {{code}} is not valid",    
     
     "login-title": "User access",
     "login-user": "User",

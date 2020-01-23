@@ -41,6 +41,8 @@
     "data-load-error-dialog-message": "Se ha producido un error {{status}} al cargar los datos. El detalle del error es el siguiente: <br /><br />{{message}}<br /><br /> Por favor, vuelva a intentarlo más tarde.",
     "data-save-error-dialog-title": "Error en el guardado de los datos",
     "data-save-error-dialog-message": "No se han podido guardar correctamente los datos. El detalle del error es el siguiente:  <br /><br />{{message}}<br /><br /> Por favor, revise todos los datos y vuelva a intentarlo más tarde.",
+    "access-code-error-dialog-title": "Error en el acceso de usuario",
+    "access-code-error-dialog-message": "El código de acceso {{code}} no es válido",    
     
     "login-title": "Acceso de usuario",
     "login-user": "Usuario",
