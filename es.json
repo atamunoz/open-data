@@ -43,6 +43,7 @@
     "data-save-error-dialog-message": "No se han podido guardar correctamente los datos. El detalle del error es el siguiente:  <br /><br />{{message}}<br /><br /> Por favor, revise todos los datos y vuelva a intentarlo más tarde.",
     "access-code-error-dialog-title": "Error en el acceso de usuario",
     "access-code-error-dialog-message": "El código de acceso {{code}} no es válido",    
+    "access-survey-error-dialog-message": "Atención: actualmente no existe una recogida activa, por lo que no se puede acceder a la cumplimentación de cuestionarios. Por favor, vuelva a intentarlo cuando se haya iniciado la siguiente recogida. Gracias.",    
     
     "login-title": "Acceso de usuario",
     "login-user": "Usuario",

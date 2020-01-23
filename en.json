@@ -43,6 +43,7 @@
     "data-save-error-dialog-message": "Failed to save data correctly. The error detail is as follows: <br /><br /> {{message}} <br /><br /> Please review all the data carefully and try again later.",
     "access-code-error-dialog-title": "User access failed",
     "access-code-error-dialog-message": "The access code {{code}} is not valid",    
+    "access-survey-error-dialog-message": "Attention: there is currently no active survey, so you can not access the questionnaires. Please try again when the next survey has started. Thank you.",    
     
     "login-title": "User access",
     "login-user": "User",
