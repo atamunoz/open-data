@@ -63,6 +63,8 @@
     "dashboard-option-schools-description": "Veure llistat dels col·legis registrats, donar d'alta nous col·legis i / o modificar les seves dades",
     "dashboard-option-results-title": "Resultats de les enquestes",
     "dashboard-option-results-description": "Veure i explotar les respostes obtingudes dels qüestionaris, exportar les dades a fitxers CSV",
+    "dashboard-option-access-urls-title": "Accés d'alumnat",
+    "dashboard-option-access-urls-description": "Veure les URL d'invitació mitjançant les quals els alumnes poden accedir als qüestionaris",
     "dashboard-option-profile-title": "El meu perfil",
     "dashboard-option-profile-description": "Veure i / o modificar les meves dades personals i el meu clau d'accés",
     

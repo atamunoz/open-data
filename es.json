@@ -63,6 +63,8 @@
     "dashboard-option-schools-description": "Ver listado de los colegios registrados, dar de alta nuevos colegios y/o modificar sus datos",
     "dashboard-option-results-title": "Resultados de las encuestas",
     "dashboard-option-results-description": "Ver y explotar las respuestas obtenidas de los cuestionarios, exportar los datos a ficheros CSV",
+    "dashboard-option-access-urls-title": "Acceso de alumnado",
+    "dashboard-option-access-urls-description": "Ver las URLs de invitación mediante las que los alumnos pueden acceder a los cuestionarios",
     "dashboard-option-profile-title": "Mi perfil",
     "dashboard-option-profile-description": "Ver y/o modificar mis datos personales y mi clave de acceso",
     

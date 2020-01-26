@@ -63,6 +63,8 @@
     "dashboard-option-schools-description": "View a list of registered schools, register new schools and / or modify their data",
     "dashboard-option-results-title": "Survey results",
     "dashboard-option-results-description": "View and analyze the answers obtained from the questionnaires, export data into CSV files",
+    "dashboard-option-access-urls-title": "Student invitations",
+    "dashboard-option-access-urls-description": "View the invitation URLs that can be used by students to access the questionnaires",
     "dashboard-option-profile-title": "My profile",
     "dashboard-option-profile-description": "View and / or modify my personal data and my password",
     
