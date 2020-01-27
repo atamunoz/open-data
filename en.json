@@ -67,6 +67,11 @@
     "dashboard-option-access-urls-description": "View the invitation URLs that can be used by students to access the questionnaires",
     "dashboard-option-profile-title": "My profile",
     "dashboard-option-profile-description": "View and / or modify my personal data and my password",
+
+    "access-url-list-course-header": "Course",
+    "access-url-list-study-header": "Level",
+    "access-url-list-url-header": "URL",
+    "access-url-list-buttons-header": "Actions",
     
     "school-section-title-new": "Register new chool",
     "school-section-title-edit": "Edit school data",

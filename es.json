@@ -67,6 +67,11 @@
     "dashboard-option-access-urls-description": "Ver las URLs de invitación mediante las que los alumnos pueden acceder a los cuestionarios",
     "dashboard-option-profile-title": "Mi perfil",
     "dashboard-option-profile-description": "Ver y/o modificar mis datos personales y mi clave de acceso",
+
+    "access-url-list-course-header": "Curso",
+    "access-url-list-study-header": "Estudios",
+    "access-url-list-url-header": "URL",
+    "access-url-list-buttons-header": "Acciones",
     
     "school-section-title-new": "Alta de nuevo colegio",
     "school-section-title-edit": "Edición de datos de un colegio",

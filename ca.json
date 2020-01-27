@@ -67,6 +67,11 @@
     "dashboard-option-access-urls-description": "Veure les URL d'invitació mitjançant les quals els alumnes poden accedir als qüestionaris",
     "dashboard-option-profile-title": "El meu perfil",
     "dashboard-option-profile-description": "Veure i / o modificar les meves dades personals i el meu clau d'accés",
+
+    "access-url-list-course-header": "Curs",
+    "access-url-list-study-header": "Estudis",
+    "access-url-list-url-header": "URL",
+    "access-url-list-buttons-header": "Accions",
     
     "school-section-title-new": "Alta de nou col·legi",
     "school-section-title-edit": "Edició de dades d'un col·legi",
