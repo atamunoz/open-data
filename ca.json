@@ -37,6 +37,8 @@
     "modal-button-next": "Següent",
     "modal-button-finish": "Finalitzar",
 
+    "progress-dialog-loading-data": "Carregant dades...",
+
     "data-load-error-dialog-title": "Error en la càrrega de les dades",
     "data-load-error-dialog-message": "S'ha produït un error {{status}} a l'carregar les dades. El detall de l'error és el següent: <br /><br /> {{message}} <br /><br /> Si us plau, torneu a intentar-ho més tard.",
     "data-save-error-dialog-title": "Error en el guardat de les dades",
@@ -57,6 +59,7 @@
     "login-error-dialog-title": "Error d'accés",
     "login-error-400": "Accés denegat: Credencials no vàlides. Si us plau, revisi el seu correu electrònic i la contrasenya, i torneu a intentar",
     
+    "dashboard-options-section": "Opcions",
     "dashboard-option-surveys-title": "Gestionar recollides",
     "dashboard-option-surveys-description": "Programar noves recollides, consultar i / o modificar recollides existents",
     "dashboard-option-schools-title": "Gestionar escoles",

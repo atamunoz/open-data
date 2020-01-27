@@ -37,6 +37,8 @@
     "modal-button-next": "Siguiente",
     "modal-button-finish": "Finalizar",
 
+    "progress-dialog-loading-data": "Cargando datos...",
+
     "data-load-error-dialog-title": "Error en la carga de los datos",
     "data-load-error-dialog-message": "Se ha producido un error {{status}} al cargar los datos. El detalle del error es el siguiente: <br /><br />{{message}}<br /><br /> Por favor, vuelva a intentarlo más tarde.",
     "data-save-error-dialog-title": "Error en el guardado de los datos",
@@ -57,6 +59,7 @@
     "login-error-dialog-title": "Error de acceso",
     "login-error-400": "Acceso denegado: Credenciales no válidas. Por favor, revise su correo electrónico y su contraseña, y vuelva a intentarlo",
     
+    "dashboard-options-section": "Opciones",
     "dashboard-option-surveys-title": "Gestionar recogidas",
     "dashboard-option-surveys-description": "Programar nuevas recogidas, consultar y/o modificar recogidas existentes",
     "dashboard-option-schools-title": "Gestionar colegios",
