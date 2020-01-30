@@ -38,6 +38,7 @@
     "modal-button-finish": "Finalizar",
 
     "progress-dialog-loading-data": "Cargando datos...",
+    "progress-dialog-saving-data": "Guardando datos...",
 
     "data-load-error-dialog-title": "Error en la carga de los datos",
     "data-load-error-dialog-message": "Se ha producido un error {{status}} al cargar los datos. El detalle del error es el siguiente: <br /><br />{{message}}<br /><br /> Por favor, vuelva a intentarlo más tarde.",
@@ -101,8 +102,29 @@
     "school-section-button-edit": "Guardar cambios",
     "school-section-signup-ok": "Estimado {{name}} {{surname}}, <br /><br /> Hemos recibido correctamente toda la información de su colegio, por lo que a partir de este momento queda registrado en nuestro programa. <br /><br /> Muchas gracias por su participación.",
     
+    "student-survey-section-success": "Estimado alumno, <br /><br /> Hemos recibido correctamente todas las respuestas de este cuestionario. Muchas gracias por participar en el programa contra el bullying de la Fundacion Barça. <br /><br /> Un cordial saludo.",
+
+    "survey-crud-create-title": "Crear nueva recogida",
+    "survey-crud-create-instructions": "Complete cada uno de los datos de la nueva recogida. Tenga en cuenta que los periodos de recogida no se pueden solapar.",
+    "survey-crud-edit-title": "Modificar datos de una recogida",
+    "survey-crud-edit-instructions": "Modifique los datos deseados de la recogida sin solapar con recogidas existentes.",
+    "survey-crud-list-title": "Listado de recogidas",
+    "survey-form-course-placeholder": "Curso académico",
+    "survey-form-ordinal-placeholder": "Ordinal dentro del curso",
+    "survey-form-init-placeholder": "Fecha de inicio",
+    "survey-form-end-placeholder": "Fecha de finalización",
+
+    "action-button-create": "Crear",
+    "action-button-edit": "Modificar",
+    "action-button-delete": "Eliminar",
+    "action-button-save": "Guardar",
+    "action-button-save-changes": "Guardar cambios",
+
     "validation-field-required": "Este campo es obligatorio",
     "validation-question-required": "Debes contestar esta pregunta para continuar",
     "validation-email-format": "Introduzca un e-mail válido",
-    "validation-password-required": "Se requiere una clave de acceso"
+    "validation-password-required": "Se requiere una clave de acceso",
+    "validation-past-date-not-allowed": "No se admiten fechas anteriores al día de hoy",
+    "validation-survey-date-conflict": "Existe un conflicto de fechas de inicio y/o fin con otra recogida",
+    "validation-survey-ordinal-conflict": "Ya existe una recogida con el mismo ordinal para el curso académico"
 }

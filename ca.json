@@ -38,6 +38,7 @@
     "modal-button-finish": "Finalitzar",
 
     "progress-dialog-loading-data": "Carregant dades...",
+    "progress-dialog-saving-data": "Guardant dades...",
 
     "data-load-error-dialog-title": "Error en la càrrega de les dades",
     "data-load-error-dialog-message": "S'ha produït un error {{status}} a l'carregar les dades. El detall de l'error és el següent: <br /><br /> {{message}} <br /><br /> Si us plau, torneu a intentar-ho més tard.",
@@ -100,9 +101,30 @@
     "school-section-button-new": "Registrar col·legi",
     "school-section-button-edit": "Desa els canvis",
     "school-section-signup-ok": "Apreciat/da {{name}} {{surname}}, <br /><br /> Hem rebut correctament tota la informació del seu col·legi, pel que a partir d'aquest moment queda registrat en el nostre programa. <br /><br /> Moltes gràcies per la seva participació.",
+
+    "student-survey-section-success": "Apreciat/da alumne/a, <br /> <br /> Hem rebut correctament totes les respostes d'aquest qüestionari. Moltes gràcies per participar en el programa contra el bullying de la Fundació Barça. <br /> <br /> Una cordial salutació.",
+
+    "survey-crud-create-title": "Crear nova recollida",
+    "survey-crud-create-instructions": "Completi cada una de les dades de la nova recollida. Recordeu que els períodes de recollida no es poden solapar.",
+    "survey-crud-edit-title": "Modificar dades d'una recollida",
+    "survey-crud-edit-instructions": "Modifiqueu les dades desitjades de la recollida sense solapar amb recollides existents.",
+    "survey-crud-list-title": "Llistat de recollides",
+    "survey-form-course-placeholder": "Curs acadèmic",
+    "survey-form-ordinal-placeholder": "Ordinal dins el curs",
+    "survey-form-init-placeholder": "Data d'inici",
+    "survey-form-end-placeholder": "Data de finalització",
+
+    "action-button-create": "Crear",
+    "action-button-edit": "Modificar",
+    "action-button-delete": "Eliminar",
+    "action-button-save": "Desar",
+    "action-button-save-changes": "Desa els canvis",
     
     "validation-field-required": "Aquest camp és obligatori",
     "validation-question-required": "Has contestar aquesta pregunta per continuar",
     "validation-email-format": "Introduïu un e-mail vàlid",
-    "validation-password-required": "Es requereix una contrasenya d'accés"
+    "validation-password-required": "Es requereix una contrasenya d'accés",
+    "validation-past-date-not-allowed": "No s'admeten dates anteriors a el dia d'avui",
+    "validation-survey-date-conflict": "Hi ha un conflicte de dates d'inici i / o fi amb una altra recollida",
+    "validation-survey-ordinal-conflict": "Ja hi ha una recollida amb el mateix ordinal per al curs acadèmic"
 }
