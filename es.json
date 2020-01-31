@@ -46,6 +46,9 @@
     "data-save-error-dialog-message": "No se han podido guardar correctamente los datos. El detalle del error es el siguiente:  <br /><br />{{message}}<br /><br /> Por favor, revise todos los datos y vuelva a intentarlo más tarde.",
     "data-save-success-dialog-title": "Datos guardados",
     "data-save-success-dialog-message": "Los datos se han guardado correctamente",
+    "delete-confirmation-dialog-title": "Confirmación de eliminación",
+    "delete-confirmation-dialog-message": "¿Está seguro de que desea eliminar el elemento seleccionado? Esta operación NO se puede deshacer.",
+
     "access-code-error-dialog-title": "Error en el acceso de usuario",
     "access-code-error-dialog-message": "El código de acceso {{code}} no es válido",    
     "access-survey-error-dialog-message": "Atención: actualmente no existe una recogida activa, por lo que no se puede acceder a la cumplimentación de cuestionarios. Por favor, vuelva a intentarlo cuando se haya iniciado la siguiente recogida. Gracias.",    

@@ -46,6 +46,9 @@
     "data-save-error-dialog-message": "No s'han pogut desar correctament les dades. El detall de l'error és el següent: <br /><br /> {{message}} <br /><br /> Si us plau, revisi detingudament totes les dades i torneu a provar més tard.",
     "data-save-success-dialog-title": "Dades guardats",
     "data-save-success-dialog-message": "Les dades s'han guardat correctament",
+    "delete-confirmation-dialog-title": "Confirmació d'eliminació",
+    "delete-confirmation-dialog-message": "Esteu segur que voleu eliminar l'element seleccionat? Aquesta operació NO es pot desfer.",
+
     "access-code-error-dialog-title": "Error en l'accés d'usuari",
     "access-code-error-dialog-message": "El codi d'accés {{code}} no és vàlid",    
     "access-survey-error-dialog-message": "Atenció: actualment no hi ha una recollida activa, de manera que no es pot accedir a l'emplenament de qüestionaris. Si us plau, torni a intentar-ho quan s'hagi iniciat la següent recollida. Gràcies.",    

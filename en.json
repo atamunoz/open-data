@@ -46,6 +46,9 @@
     "data-save-error-dialog-message": "Failed to save data correctly. The error detail is as follows: <br /><br /> {{message}} <br /><br /> Please review all the data carefully and try again later.",
     "data-save-success-dialog-title": "Saved data",
     "data-save-success-dialog-message": "All data have been saved successfully",
+    "delete-confirmation-dialog-title": "Deletion confirmation",
+    "delete-confirmation-dialog-message": "Are you sure you want to delete the selected item? This operation CANNOT be undone.",
+
     "access-code-error-dialog-title": "User access failed",
     "access-code-error-dialog-message": "The access code {{code}} is not valid",    
     "access-survey-error-dialog-message": "Attention: there is currently no active survey, so you can not access the questionnaires. Please try again when the next survey has started. Thank you.",    
