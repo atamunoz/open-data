@@ -44,6 +44,8 @@
     "data-load-error-dialog-message": "S'ha produït un error {{status}} a l'carregar les dades. El detall de l'error és el següent: <br /><br /> {{message}} <br /><br /> Si us plau, torneu a intentar-ho més tard.",
     "data-save-error-dialog-title": "Error en el guardat de les dades",
     "data-save-error-dialog-message": "No s'han pogut desar correctament les dades. El detall de l'error és el següent: <br /><br /> {{message}} <br /><br /> Si us plau, revisi detingudament totes les dades i torneu a provar més tard.",
+    "data-save-success-dialog-title": "Dades guardats",
+    "data-save-success-dialog-message": "Les dades s'han guardat correctament",
     "access-code-error-dialog-title": "Error en l'accés d'usuari",
     "access-code-error-dialog-message": "El codi d'accés {{code}} no és vàlid",    
     "access-survey-error-dialog-message": "Atenció: actualment no hi ha una recollida activa, de manera que no es pot accedir a l'emplenament de qüestionaris. Si us plau, torni a intentar-ho quan s'hagi iniciat la següent recollida. Gràcies.",    
@@ -125,6 +127,7 @@
     "validation-email-format": "Introduïu un e-mail vàlid",
     "validation-password-required": "Es requereix una contrasenya d'accés",
     "validation-past-date-not-allowed": "No s'admeten dates anteriors a el dia d'avui",
+    "validation-survey-dates-conflict": "La data de finalització de la recollida ha de ser posterior a la d'inici",
     "validation-survey-date-conflict": "Hi ha un conflicte de dates d'inici i / o fi amb una altra recollida",
     "validation-survey-ordinal-conflict": "Ja hi ha una recollida amb el mateix ordinal per al curs acadèmic"
 }

@@ -44,6 +44,8 @@
     "data-load-error-dialog-message": "An error {{status}} occurred while loading data. The error detail is as follows: <br /><br /> {{message}} <br /><br /> Please try again later.",
     "data-save-error-dialog-title": "Failed to save data",
     "data-save-error-dialog-message": "Failed to save data correctly. The error detail is as follows: <br /><br /> {{message}} <br /><br /> Please review all the data carefully and try again later.",
+    "data-save-success-dialog-title": "Saved data",
+    "data-save-success-dialog-message": "All data have been saved successfully",
     "access-code-error-dialog-title": "User access failed",
     "access-code-error-dialog-message": "The access code {{code}} is not valid",    
     "access-survey-error-dialog-message": "Attention: there is currently no active survey, so you can not access the questionnaires. Please try again when the next survey has started. Thank you.",    
@@ -126,5 +128,6 @@
     "validation-password-required": "Password is required",
     "validation-past-date-not-allowed": "Past dates are not allowed",
     "validation-survey-date-conflict": "Start date or end date conflicting with another existing survey",
+    "validation-survey-dates-conflict": "The survey end date must be after the start date",
     "validation-survey-ordinal-conflict": "Provided ordinal already exists for the course"
 }

@@ -44,6 +44,8 @@
     "data-load-error-dialog-message": "Se ha producido un error {{status}} al cargar los datos. El detalle del error es el siguiente: <br /><br />{{message}}<br /><br /> Por favor, vuelva a intentarlo más tarde.",
     "data-save-error-dialog-title": "Error en el guardado de los datos",
     "data-save-error-dialog-message": "No se han podido guardar correctamente los datos. El detalle del error es el siguiente:  <br /><br />{{message}}<br /><br /> Por favor, revise todos los datos y vuelva a intentarlo más tarde.",
+    "data-save-success-dialog-title": "Datos guardados",
+    "data-save-success-dialog-message": "Los datos se han guardado correctamente",
     "access-code-error-dialog-title": "Error en el acceso de usuario",
     "access-code-error-dialog-message": "El código de acceso {{code}} no es válido",    
     "access-survey-error-dialog-message": "Atención: actualmente no existe una recogida activa, por lo que no se puede acceder a la cumplimentación de cuestionarios. Por favor, vuelva a intentarlo cuando se haya iniciado la siguiente recogida. Gracias.",    
@@ -126,5 +128,6 @@
     "validation-password-required": "Se requiere una clave de acceso",
     "validation-past-date-not-allowed": "No se admiten fechas anteriores al día de hoy",
     "validation-survey-date-conflict": "Existe un conflicto de fechas de inicio y/o fin con otra recogida",
+    "validation-survey-dates-conflict": "La fecha de finalización de la recogida debe ser posterior a la de inicio",
     "validation-survey-ordinal-conflict": "Ya existe una recogida con el mismo ordinal para el curso académico"
 }
