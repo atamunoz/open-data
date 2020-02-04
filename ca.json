@@ -125,6 +125,9 @@
     "action-button-delete": "Eliminar",
     "action-button-save": "Desar",
     "action-button-save-changes": "Desa els canvis",
+    "action-button-copy": "Copiar",
+    "action-button-cut": "Tallar",
+    "action-button-paste": "Enganxar",
     
     "validation-field-required": "Aquest camp és obligatori",
     "validation-question-required": "Has contestar aquesta pregunta per continuar",
