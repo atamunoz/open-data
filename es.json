@@ -64,6 +64,10 @@
     "login-create-account": "Regístrese como colegio",
     "login-error-dialog-title": "Error de acceso",
     "login-error-400": "Acceso denegado: Credenciales no válidas. Por favor, revise su correo electrónico y su contraseña, y vuelva a intentarlo",
+
+    "dashboard-card-total-schools": "Total colegios registrados",
+    "dashboard-card-total-students": "Total alumnos participantes",
+    "dashboard-card-survey-progress": "Estado de la recogida activa (quedan {{remainingDays}} días)",
     
     "dashboard-options-section": "Opciones",
     "dashboard-option-surveys-title": "Gestionar recogidas",

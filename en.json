@@ -64,6 +64,10 @@
     "login-create-account": "Please, register now as a school",
     "login-error-dialog-title": "Access error",
     "login-error-400": "Access denied: Invalid credentials. Please check your email and password, and try again",
+
+    "dashboard-card-total-schools": "Total registered schools",
+    "dashboard-card-total-students": "Total participating students",
+    "dashboard-card-survey-progress": "Status of active survey ({{remainingDays}} days left)",
     
     "dashboard-options-section": "Options",
     "dashboard-option-surveys-title": "Manage surveys",
