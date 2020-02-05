@@ -68,6 +68,7 @@
     "dashboard-card-total-schools": "Total col·legis registrats",
     "dashboard-card-total-students": "Total alumnes participants",
     "dashboard-card-survey-progress": "Estat de la recollida activa (queden {{remainingDays}} dies)",
+    "dashboard-card-no-active-survey": "No hi ha recollida activa actualment",
     
     "dashboard-options-section": "Opcions",
     "dashboard-option-surveys-title": "Gestionar recollides",

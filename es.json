@@ -68,6 +68,7 @@
     "dashboard-card-total-schools": "Total colegios registrados",
     "dashboard-card-total-students": "Total alumnos participantes",
     "dashboard-card-survey-progress": "Estado de la recogida activa (quedan {{remainingDays}} días)",
+    "dashboard-card-no-active-survey": "No hay recogida activa actualmente",
     
     "dashboard-options-section": "Opciones",
     "dashboard-option-surveys-title": "Gestionar recogidas",

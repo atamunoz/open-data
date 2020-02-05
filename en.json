@@ -68,6 +68,7 @@
     "dashboard-card-total-schools": "Total registered schools",
     "dashboard-card-total-students": "Total participating students",
     "dashboard-card-survey-progress": "Status of active survey ({{remainingDays}} days left)",
+    "dashboard-card-no-active-survey": "No survey currently active",
     
     "dashboard-options-section": "Options",
     "dashboard-option-surveys-title": "Manage surveys",
