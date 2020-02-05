@@ -62,6 +62,7 @@
     "login-button": "Acceder",
     "login-no-account": "¿Aún no dispone de una cuenta?",
     "login-create-account": "Regístrese como colegio",
+    "login-collaborators": "Colabora:",
     "login-error-dialog-title": "Error de acceso",
     "login-error-400": "Acceso denegado: Credenciales no válidas. Por favor, revise su correo electrónico y su contraseña, y vuelva a intentarlo",
 

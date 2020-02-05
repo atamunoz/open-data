@@ -62,6 +62,7 @@
     "login-button": "Entrar",
     "login-no-account": "¿Encara no disposa d'un compte?",
     "login-create-account": "Fes-com a col·legi",
+    "login-collaborators": "Col·labora:",
     "login-error-dialog-title": "Error d'accés",
     "login-error-400": "Accés denegat: Credencials no vàlides. Si us plau, revisi el seu correu electrònic i la contrasenya, i torneu a intentar",
 
