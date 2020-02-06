@@ -99,7 +99,7 @@
     "school-section-email-placeholder": "Correu electrònic",
     "school-section-password-placeholder": "Contrasenya",
     "school-section-contactname-placeholder": "Nom de l'responsable",
-    "school-section-conactsurname-placeholder": "Cognoms de l'responsable",
+    "school-section-contactsurname-placeholder": "Cognoms de l'responsable",
     "school-section-code-placeholder": "Codi de centre",
     "school-section-name-placeholder": "Nom de l'escola",
     "school-section-address-placeholder": "Direcció",
@@ -134,6 +134,7 @@
     "action-button-copy": "Copiar",
     "action-button-cut": "Tallar",
     "action-button-paste": "Enganxar",
+    "action-button-back": "Tornar",
     
     "validation-field-required": "Aquest camp és obligatori",
     "validation-question-required": "Has contestar aquesta pregunta per continuar",

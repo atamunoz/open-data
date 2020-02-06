@@ -134,6 +134,7 @@
     "action-button-copy": "Copiar",
     "action-button-cut": "Cortar",
     "action-button-paste": "Pegar",
+    "action-button-back": "Volver",
 
     "validation-field-required": "Este campo es obligatorio",
     "validation-question-required": "Debes contestar esta pregunta para continuar",
