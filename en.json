@@ -110,6 +110,8 @@
     "school-section-child-placeholder": "Early childhood education",
     "school-section-primary-placeholder": "Primary education",
     "school-section-secondary-placeholder": "Secondary education",
+    "school-section-accept-cond": "I accept the",
+    "school-section-accept-cond-link": "terms of use",
     "school-section-button-new": "Sign up",
     "school-section-button-edit": "Save changes",
     "school-section-signup-ok": "Dear {{name}} {{surname}}, <br /><br /> We have correctly received all the information from your school, so from this moment you are registered in our program. <br /><br /> Thank you very much for your participation.",

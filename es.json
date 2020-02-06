@@ -110,6 +110,8 @@
     "school-section-child-placeholder": "Educación infantil",
     "school-section-primary-placeholder": "Educación primaria",
     "school-section-secondary-placeholder": "Educación secundaria",
+    "school-section-accept-cond": "Acepto las",
+    "school-section-accept-cond-link": "condiciones de uso",
     "school-section-button-new": "Registrar colegio",
     "school-section-button-edit": "Guardar cambios",
     "school-section-signup-ok": "Estimado {{name}} {{surname}}, <br /><br /> Hemos recibido correctamente toda la información de su colegio, por lo que a partir de este momento queda registrado en nuestro programa. <br /><br /> Muchas gracias por su participación.",
