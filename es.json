@@ -1,4 +1,4 @@
-{
+﻿{
     "@metadata": {
         "authors": [
             "GeoWE"
@@ -42,7 +42,7 @@
 
     "data-load-error-dialog-title": "Error en la carga de los datos",
     "data-load-error-dialog-message": "Se ha producido un error {{status}} al cargar los datos. El detalle del error es el siguiente: <br /><br />{{message}}<br /><br /> Por favor, vuelva a intentarlo más tarde.",
-    "data-save-error-dialog-title": "Error en el guardado de los datos",
+    "data-save-error-dialog-title": "Error al guardar los datos",
     "data-save-error-dialog-message": "No se han podido guardar correctamente los datos. El detalle del error es el siguiente:  <br /><br />{{message}}<br /><br /> Por favor, revise todos los datos y vuelva a intentarlo más tarde.",
     "data-save-success-dialog-title": "Datos guardados",
     "data-save-success-dialog-message": "Los datos se han guardado correctamente",
@@ -67,9 +67,9 @@
     "login-error-400": "Acceso denegado: Credenciales no válidas. Por favor, revise su correo electrónico y su contraseña, y vuelva a intentarlo",
 
     "dashboard-card-total-schools": "Total colegios registrados",
-    "dashboard-card-total-students": "Total alumnos participantes",
+    "dashboard-card-total-students": "Total alumnos/as participantes",
     "dashboard-card-survey-progress": "Estado de la recogida activa (quedan {{remainingDays}} días)",
-    "dashboard-card-no-active-survey": "No hay recogida activa actualmente",
+    "dashboard-card-no-active-survey": "No hay recogida activada actualmente",
     
     "dashboard-options-section": "Opciones",
     "dashboard-option-surveys-title": "Gestionar recogidas",
@@ -78,11 +78,11 @@
     "dashboard-option-schools-description": "Ver listado de los colegios registrados, dar de alta nuevos colegios y/o modificar sus datos",
     "dashboard-option-results-title": "Resultados de las encuestas",
     "dashboard-option-results-description": "Ver y explotar las respuestas obtenidas de los cuestionarios, exportar los datos a ficheros CSV",
-    "dashboard-option-access-urls-title": "Acceso de alumnado",
-    "dashboard-option-access-urls-description": "Ver las URLs de invitación mediante las que los alumnos pueden acceder a los cuestionarios",
-    "dashboard-option-profile-title": "Mi perfil",
-    "dashboard-option-profile-description": "Ver y/o modificar mis datos personales y mi clave de acceso",
-    "dashboard-option-protocol-pdf-title": "Protocolo de aplicación",
+    "dashboard-option-access-urls-title": "Acceso a los cuestionarios de cada curso",
+    "dashboard-option-access-urls-description": "Ver las URL de los cuestionarios a pasar por cada curso de primaria",
+    "dashboard-option-profile-title": "Datos de acceso del coordinador",
+    "dashboard-option-profile-description": "Ver y/o modificar mis datos y mi clave de acceso",
+    "dashboard-option-protocol-pdf-title": "Protocolo de aplicación de los cuestionarios",
     "dashboard-option-protocol-pdf-content": "Ver el documento de protocolo de aplicación en formato PDF",
 
     "access-url-list-course-header": "Curso",
@@ -94,14 +94,14 @@
     "school-section-title-edit": "Edición de datos de un colegio",
     "school-section-title-profile": "Perfil de usuario",
     "school-section-info-title": "Datos del colegio",
-    "school-section-info-content": "Revise y complete los datos de perfil del colegio. Para nosotros es muy importante contar con datos actualizados y concisos.",
-    "school-section-access-subtitle": "Datos de acceso:",
+    "school-section-info-content": "Revise y complete los datos de perfil del colegio.",
+    "school-section-access-subtitle": "Datos de acceso del coordinador:",
     "school-section-school-subtitle": "Datos del colegio:",
     "school-section-studies-subtitle": "Estudios que se imparten:",
     "school-section-email-placeholder": "Correo electrónico",
-    "school-section-password-placeholder": "Password",
-    "school-section-contactname-placeholder": "Nombre del responsable",
-    "school-section-contactsurname-placeholder": "Apellidos del responsable",
+    "school-section-password-placeholder": "Contraseña",
+    "school-section-contactname-placeholder": "Nombre del coordinador",
+    "school-section-contactsurname-placeholder": "Apellidos del coordinador",
     "school-section-code-placeholder": "Código de centro",
     "school-section-name-placeholder": "Nombre del colegio",
     "school-section-address-placeholder": "Dirección",
@@ -114,11 +114,11 @@
     "school-section-secondary-placeholder": "Educación secundaria",
     "school-section-accept-cond": "Acepto las",
     "school-section-accept-cond-link": "condiciones de uso",
-    "school-section-button-new": "Registrar colegio",
+    "school-section-button-new": "Guardar Datos",
     "school-section-button-edit": "Guardar cambios",
-    "school-section-signup-ok": "Estimado {{name}} {{surname}}, <br /><br /> Hemos recibido correctamente toda la información de su colegio, por lo que a partir de este momento queda registrado en nuestro programa. <br /><br /> Muchas gracias por su participación.",
+    "school-section-signup-ok": "Estimado/a {{name}} {{surname}}, <br /><br /> Hemos recibido correctamente toda la información de su colegio. A partir de este momento queda registrado en nuestro programa. <br /><br /> Muchas gracias por su participación.",
     
-    "student-survey-section-success": "Estimado alumno, <br /><br /> Hemos recibido correctamente todas las respuestas de este cuestionario. Muchas gracias por participar en el programa contra el bullying de la Fundacion Barça. <br /><br /> Un cordial saludo.",
+    "student-survey-section-success": "Estimado alumno/a, <br /><br /> Hemos recibido correctamente todas las respuestas de este cuestionario. Muchas gracias por participar en el programa contra el bullying de la Fundacion Barça. <br /><br />",
 
     "survey-crud-create-title": "Crear nueva recogida",
     "survey-crud-create-instructions": "Complete cada uno de los datos de la nueva recogida. Tenga en cuenta que los periodos de recogida no se pueden solapar.",

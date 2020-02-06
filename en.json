@@ -1,4 +1,4 @@
-{
+﻿{
     "@metadata": {
         "authors": [
             "GeoWE"
@@ -58,7 +58,7 @@
     "login-user-placeholder": "Insert user / e-mail",    
     "login-password": "Password",
     "login-password-placeholder": "Insert access password",    
-    "login-forgotten-password": "Forgot your passoword?",
+    "login-forgotten-password": "Forgot your password?",
     "login-button": "Sign in",
     "login-no-account": "Don't you have an account?",
     "login-create-account": "Please, register now as a school",
@@ -78,10 +78,10 @@
     "dashboard-option-schools-description": "View a list of registered schools, register new schools and / or modify their data",
     "dashboard-option-results-title": "Survey results",
     "dashboard-option-results-description": "View and analyze the answers obtained from the questionnaires, export data into CSV files",
-    "dashboard-option-access-urls-title": "Student invitations",
-    "dashboard-option-access-urls-description": "View the invitation URLs that can be used by students to access the questionnaires",
-    "dashboard-option-profile-title": "My profile",
-    "dashboard-option-profile-description": "View and / or modify my personal data and my password",
+    "dashboard-option-access-urls-title": "Access to the questionnaires of each course",
+    "dashboard-option-access-urls-description": "View the URLs of the questionnaires to be passed for each course",
+    "dashboard-option-profile-title": "Coordinator access data",
+    "dashboard-option-profile-description": "View and / or modify our personal data and my password",
     "dashboard-option-protocol-pdf-title": "Application protocol",
     "dashboard-option-protocol-pdf-content": "View the application protocol document in PDF format",
 
@@ -90,11 +90,11 @@
     "access-url-list-url-header": "URL",
     "access-url-list-buttons-header": "Actions",
     
-    "school-section-title-new": "Register new chool",
+    "school-section-title-new": "Register new school",
     "school-section-title-edit": "Edit school data",
     "school-section-title-profile": "User profile",
     "school-section-info-title": "School data",
-    "school-section-info-content": "Please, review and complete the profile data of the school. For us it is very important to have updated and concise data.",
+    "school-section-info-content": "Please, review and complete the profile data of the school.",
     "school-section-access-subtitle": "Access data:",
     "school-section-school-subtitle": "School data:",
     "school-section-studies-subtitle": "Studies taught:",
@@ -114,7 +114,7 @@
     "school-section-secondary-placeholder": "Secondary education",
     "school-section-accept-cond": "I accept the",
     "school-section-accept-cond-link": "terms of use",
-    "school-section-button-new": "Sign up",
+    "school-section-button-new": "Save Data",
     "school-section-button-edit": "Save changes",
     "school-section-signup-ok": "Dear {{name}} {{surname}}, <br /><br /> We have correctly received all the information from your school, so from this moment you are registered in our program. <br /><br /> Thank you very much for your participation.",
 
