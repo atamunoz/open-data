@@ -142,6 +142,8 @@
     "validation-question-required": "Has contestar aquesta pregunta per continuar",
     "validation-email-format": "Introduïu un e-mail vàlid",
     "validation-password-required": "Es requereix una contrasenya d'accés",
+    "validation-multioption-required": "Heu de seleccionar a l'almenys una opció",
+    "validation-accept-cond-required": "Ha d'acceptar les condicions d'ús",
     "validation-past-date-not-allowed": "No s'admeten dates anteriors a el dia d'avui",
     "validation-survey-dates-conflict": "La data de finalització de la recollida ha de ser posterior a la d'inici",
     "validation-survey-date-conflict": "Hi ha un conflicte de dates d'inici i / o fi amb una altra recollida",

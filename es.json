@@ -142,6 +142,8 @@
     "validation-question-required": "Debes contestar esta pregunta para continuar",
     "validation-email-format": "Introduzca un e-mail válido",
     "validation-password-required": "Se requiere una clave de acceso",
+    "validation-multioption-required": "Debe seleccionar al menos una opción",
+    "validation-accept-cond-required": "Debe aceptar las condiciones de uso",
     "validation-past-date-not-allowed": "No se admiten fechas anteriores al día de hoy",
     "validation-survey-date-conflict": "Existe un conflicto de fechas de inicio y/o fin con otra recogida",
     "validation-survey-dates-conflict": "La fecha de finalización de la recogida debe ser posterior a la de inicio",

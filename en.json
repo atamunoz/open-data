@@ -142,6 +142,8 @@
     "validation-question-required": "You must answer this question to continue",
     "validation-email-format": "Insert a valid e-mail",
     "validation-password-required": "Password is required",
+    "validation-multioption-required": "You must select at least one option",
+    "validation-accept-cond-required": "You must accept the terms of use",
     "validation-past-date-not-allowed": "Past dates are not allowed",
     "validation-survey-date-conflict": "Start date or end date conflicting with another existing survey",
     "validation-survey-dates-conflict": "The survey end date must be after the start date",
