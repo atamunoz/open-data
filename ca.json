@@ -82,6 +82,8 @@
     "dashboard-option-access-urls-description": "Veure les URL d'invitació mitjançant les quals els alumnes poden accedir als qüestionaris",
     "dashboard-option-profile-title": "El meu perfil",
     "dashboard-option-profile-description": "Veure i / o modificar les meves dades personals i el meu clau d'accés",
+    "dashboard-option-protocol-pdf-title": "Protocol d'aplicació",
+    "dashboard-option-protocol-pdf-content": "Veure el document de protocol d'aplicació en format PDF",
 
     "access-url-list-course-header": "Curs",
     "access-url-list-study-header": "Estudis",
