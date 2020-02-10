@@ -120,6 +120,8 @@
     
     "student-survey-section-success": "Estimado alumno/a, <br /><br /> Hemos recibido correctamente todas las respuestas de este cuestionario. Muchas gracias por participar en el programa contra el bullying de la Fundacion Barça. <br /><br />",
 
+    "crud-no-data-placeholder": "No hay datos registrados actualmente",
+
     "survey-crud-create-title": "Crear nueva recogida",
     "survey-crud-create-instructions": "Complete cada uno de los datos de la nueva recogida. Tenga en cuenta que los periodos de recogida no se pueden solapar.",
     "survey-crud-edit-title": "Modificar datos de una recogida",
