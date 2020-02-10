@@ -151,5 +151,7 @@
     "validation-past-date-not-allowed": "No s'admeten dates anteriors al dia d'avui",
     "validation-survey-dates-conflict": "La data de finalització de la recollida ha de ser posterior a la d'inici",
     "validation-survey-date-conflict": "Hi ha un conflicte de dates d'inici i / o fi amb una altra recollida",
-    "validation-survey-ordinal-conflict": "Ja hi ha una recollida amb el mateix ordinal per al curs acadèmic"
+    "validation-survey-ordinal-conflict": "Ja hi ha una recollida amb el mateix ordinal per al curs acadèmic",
+    "validation-alphanum-characters-not-allowed": "Només es permeten caràcters numèrics",
+    "validation-max-length-exceeded": "La longitud màxima és de {{maxLength}} caràcters"
 }

@@ -151,5 +151,7 @@
     "validation-past-date-not-allowed": "Past dates are not allowed",
     "validation-survey-date-conflict": "Start date or end date conflicting with another existing survey",
     "validation-survey-dates-conflict": "The survey end date must be after the start date",
-    "validation-survey-ordinal-conflict": "Provided ordinal already exists for the course"
+    "validation-survey-ordinal-conflict": "Provided ordinal already exists for the course",
+    "validation-alphanum-characters-not-allowed": "Only numeric characters are allowed",
+    "validation-max-length-exceeded": "The maximum length is {{maxLength}} characters"
 }

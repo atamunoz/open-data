@@ -151,5 +151,7 @@
     "validation-past-date-not-allowed": "No se admiten fechas anteriores al día de hoy",
     "validation-survey-date-conflict": "Existe un conflicto de fechas de inicio y/o fin con otra recogida",
     "validation-survey-dates-conflict": "La fecha de finalización de la recogida debe ser posterior a la de inicio",
-    "validation-survey-ordinal-conflict": "Ya existe una recogida con el mismo ordinal para el curso académico"
+    "validation-survey-ordinal-conflict": "Ya existe una recogida con el mismo ordinal para el curso académico",
+    "validation-alphanum-characters-not-allowed": "Solamente se permiten caracteres numéricos",
+    "validation-max-length-exceeded": "La longitud máxima es de {{maxLength}} caracteres"
 }
