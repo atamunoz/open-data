@@ -134,6 +134,12 @@
     "survey-form-init-placeholder": "Survey start date",
     "survey-form-end-placeholder": "Survey end date",
 
+    "school-crud-create-title": "Register new scholl",
+    "school-crud-create-instructions": "Complete each of the data of the new school. Note that optional questionnaires are randomly assigned.",
+    "school-crud-edit-title": "Modify school data",
+    "school-crud-edit-instructions": "Modify the desired data of the school. Importantly, the coordinator's email cannot be altered",
+    "school-crud-list-title": "List of registered schools",    
+
     "action-button-create": "Create",
     "action-button-edit": "Modify",
     "action-button-delete": "Delete",
@@ -155,5 +161,7 @@
     "validation-survey-dates-conflict": "The survey end date must be after the start date",
     "validation-survey-ordinal-conflict": "Provided ordinal already exists for the course",
     "validation-alphanum-characters-not-allowed": "Only numeric characters are allowed",
-    "validation-max-length-exceeded": "The maximum length is {{maxLength}} characters"
+    "validation-max-length-exceeded": "The maximum length is {{maxLength}} characters",
+    "validation-assigned-questionnaires-required": "You must select at least 2 optional questionnaires",
+    "validation-assigned-questionnaires-conflict": "The grades for the assigned questionnaires cannot overlap"
 }

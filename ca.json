@@ -134,6 +134,12 @@
     "survey-form-init-placeholder": "Data d'inici",
     "survey-form-end-placeholder": "Data de finalització",
 
+    "school-crud-create-title": "Alta de nova escola",
+    "school-crud-create-instructions": "Completi cada una de les dades de la nova escola. Recordeu que els qüestionaris opcionals s'assignen aleatòriament.",
+    "school-crud-edit-title": "Modificar dades d'una escola",
+    "school-crud-edit-instructions": "Modifiqueu les dades desitjades de l'escola. És important destacar que l'email de l'coordinador no es pot alterar",
+    "school-crud-list-title": "Llistat d'escoles registrats",    
+
     "action-button-create": "Crear",
     "action-button-edit": "Modificar",
     "action-button-delete": "Eliminar",
@@ -155,5 +161,7 @@
     "validation-survey-date-conflict": "Hi ha un conflicte de dates d'inici i / o fi amb una altra recollida",
     "validation-survey-ordinal-conflict": "Ja hi ha una recollida amb el mateix ordinal per al curs acadèmic",
     "validation-alphanum-characters-not-allowed": "Només es permeten caràcters numèrics",
-    "validation-max-length-exceeded": "La longitud màxima és de {{maxLength}} caràcters"
+    "validation-max-length-exceeded": "La longitud màxima és de {{maxLength}} caràcters",
+    "validation-assigned-questionnaires-required": "Heu de seleccionar al menys 2 qüestionaris opcionals",
+    "validation-assigned-questionnaires-conflict": "Els cursos dels qüestionaris assignats no poden solapar"
 }
