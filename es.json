@@ -48,6 +48,8 @@
     "data-save-success-dialog-message": "Los datos se han guardado correctamente",
     "delete-confirmation-dialog-title": "Confirmación de eliminación",
     "delete-confirmation-dialog-message": "¿Está seguro de que desea eliminar el elemento seleccionado? Esta operación NO se puede deshacer.",
+    "no-element-selected-dialog-title": "No hay elementos seleccionados",
+    "no-element-selected-dialog-message": "Debe seleccionar un elemento de la lista",
 
     "access-code-error-dialog-title": "Error en el acceso de usuario",
     "access-code-error-dialog-message": "El código de acceso {{code}} no es válido",    

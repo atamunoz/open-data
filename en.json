@@ -48,6 +48,8 @@
     "data-save-success-dialog-message": "All data have been saved successfully",
     "delete-confirmation-dialog-title": "Deletion confirmation",
     "delete-confirmation-dialog-message": "Are you sure you want to delete the selected item? This operation CANNOT be undone.",
+    "no-element-selected-dialog-title": "No items selected",
+    "no-element-selected-dialog-message": "You must select an item from the list",
 
     "access-code-error-dialog-title": "User access failed",
     "access-code-error-dialog-message": "The access code {{code}} is not valid",    

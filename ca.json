@@ -48,6 +48,8 @@
     "data-save-success-dialog-message": "Les dades s'han guardat correctament",
     "delete-confirmation-dialog-title": "Confirmació d'eliminació",
     "delete-confirmation-dialog-message": "Estàs segur que vols eliminar l'element seleccionat? Aquesta operació NO es pot desfer.",
+    "no-element-selected-dialog-title": "No hi ha elements seleccionats",
+    "no-element-selected-dialog-message": "Ha de seleccionar un element de la llista",
 
     "access-code-error-dialog-title": "Error en l'accés d'usuari",
     "access-code-error-dialog-message": "El codi d'accés {{code}} no és vàlid",    
