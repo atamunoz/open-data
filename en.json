@@ -125,6 +125,7 @@
     "student-survey-section-success": "Dear student, <br /> <br /> We have correctly received all the answers in this questionnaire. Thank you very much for participating in the anti-bullying program of the Barça Foundation. <br /> <br /> Best regards.",
 
     "crud-no-data-placeholder": "No data currently registered",
+    "crud-total-data-elements": "Total {{elements}} elements",
     
     "survey-crud-create-title": "Create new survey",
     "survey-crud-create-instructions": "Complete each field of the new survey. Please note that survey periods cannot overlap.",
