@@ -54,6 +54,8 @@
     "access-code-error-dialog-title": "Error en l'accés d'usuari",
     "access-code-error-dialog-message": "El codi d'accés {{code}} no és vàlid",    
     "access-survey-error-dialog-message": "Atenció: actualment no hi ha una recollida activa, de manera que no es pot accedir a l'emplenament de qüestionaris. Si us plau, torni a intentar-ho quan s'hagi iniciat la següent recollida. Gràcies.",    
+
+    "school-code-exists-dialog-message": "Atenció: Ja hi ha una escola registrada amb el codi especificat. Si us plau, revisi aquest codi i, si el problema persisteix, poseu-vos en contacte amb la nostra direcció de suport: infobull@uco.es.",
     
     "login-title": "Accés d'usuari",
     "login-user": "Usuari",

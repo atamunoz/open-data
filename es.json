@@ -53,7 +53,9 @@
 
     "access-code-error-dialog-title": "Error en el acceso de usuario",
     "access-code-error-dialog-message": "El código de acceso {{code}} no es válido",    
-    "access-survey-error-dialog-message": "Atención: actualmente no existe una recogida activa, por lo que no se puede acceder a la cumplimentación de cuestionarios. Por favor, vuelva a intentarlo cuando se haya iniciado la siguiente recogida. Gracias.",    
+    "access-survey-error-dialog-message": "Atención: actualmente no existe una recogida activa, por lo que no se puede acceder a la cumplimentación de cuestionarios. Por favor, vuelva a intentarlo cuando se haya iniciado la siguiente recogida. Gracias.", 
+
+    "school-code-exists-dialog-message": "Atención: Ya existe un colegio registrado con el código especificado. Por favor, revise dicho código y, si el problema persiste, póngase en contacto con nuestra dirección de soporte: infobull@uco.es.",
     
     "login-title": "Acceso de usuario",
     "login-user": "Usuario",
@@ -120,7 +122,7 @@
     "school-section-accept-cond-link": "(Ver términos y condiciones)",
     "school-section-button-new": "Guardar Datos",
     "school-section-button-edit": "Guardar cambios",
-    "school-section-signup-ok": "Estimado/a {{name}} {{surname}}, <br /><br /> Hemos recibido correctamente toda la información de su colegio. A partir de este momento queda registrado en nuestro programa. <br /><br /> Muchas gracias por su participación.",
+    "school-section-signup-ok": "Estimado/a {{name}} {{surname}}, <br /><br /> Hemos recibido correctamente toda la información de su colegio. A partir de este momento queda registrado en nuestro programa. <br /><br /> Muchas gracias por su participación.",    
     
     "student-survey-section-success": "Estimado alumno/a, <br /><br /> Hemos recibido correctamente todas las respuestas de este cuestionario. Muchas gracias por participar en el programa contra el bullying de la Fundacion Barça. <br /><br />",
 

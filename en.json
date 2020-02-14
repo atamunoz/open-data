@@ -54,6 +54,8 @@
     "access-code-error-dialog-title": "User access failed",
     "access-code-error-dialog-message": "The access code {{code}} is not valid",    
     "access-survey-error-dialog-message": "Attention: there is currently no active survey, so you can not access the questionnaires. Please try again when the next survey has started. Thank you.",    
+
+    "school-code-exists-dialog-message": "Attention: There is already a registered school with the specified code. Please review this code and, if the problem persists, contact our support address: infobull@uco.es.",
     
     "login-title": "User access",
     "login-user": "User",
