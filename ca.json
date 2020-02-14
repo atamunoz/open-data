@@ -152,6 +152,7 @@
     "action-button-cut": "Tallar",
     "action-button-paste": "Enganxar",
     "action-button-back": "Tornar",
+    "action-button-export": "Exportar",
     
     "validation-field-required": "Aquest camp és obligatori",
     "validation-question-required": "Has contestar aquesta pregunta per continuar",

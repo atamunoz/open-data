@@ -152,6 +152,7 @@
     "action-button-cut": "Cut",
     "action-button-paste": "Paste",
     "action-button-back": "Go Back",
+    "action-button-export": "Export",
     
     "validation-field-required": "This field is required",
     "validation-question-required": "You must answer this question to continue",

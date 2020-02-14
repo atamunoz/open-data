@@ -152,6 +152,7 @@
     "action-button-cut": "Cortar",
     "action-button-paste": "Pegar",
     "action-button-back": "Volver",
+    "action-button-export": "Exportar",
 
     "validation-field-required": "Este campo es obligatorio",
     "validation-question-required": "Debes contestar esta pregunta para continuar",
