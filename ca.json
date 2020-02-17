@@ -70,6 +70,12 @@
     "login-error-dialog-title": "Error d'accés",
     "login-error-400": "Accés denegat: Credencials no vàlides. Si us plau, revisi el seu correu electrònic i la contrasenya, i torneu a intentar",
 
+    "password-restore-dialog-title": "<b>Recuperació de contrasenya</b></br></br>Introdueixi el correu electrònic amb el que està registrat com a usuari en el programa. Se li generarà una nova clau d'accés i se li enviarà aquesta a la seva adreça de correu electrònic.",
+    "password-restore-dialog-input-placeholder": "Correu electrònic",
+    "password-restore-dialog-button-text": "Restablir",
+    "password-restore-dialog-error-message": "No s'ha pogut restablir la nova contrasenya. Si us plau, verifiqui que l'adreça de correu electrònic especificada és correcta i es troba registrada en el sistema.",
+    "password-restore-dialog-success-message": "La nova contrasenya ha estat enviada a la seva adreça de correu electrònic. Si us plau, verifiqui la safata d'entrada i accedeixi a el sistema amb la nova clau subministrada. A continuació, estableixi una nova clau de la seva elecció a través de l'opció de Dades d'Accés.",
+
     "dashboard-card-total-schools": "Total escoles registrades",
     "dashboard-card-total-students": "Total alumnes participants",
     "dashboard-card-survey-progress": "Estat de recollida activa (queden {{remainingDays}} dies)",

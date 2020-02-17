@@ -70,6 +70,12 @@
     "login-error-dialog-title": "Error de acceso",
     "login-error-400": "Acceso denegado: Credenciales no válidas. Por favor, revise su correo electrónico y su contraseña, y vuelva a intentarlo",
 
+    "password-restore-dialog-title": "<b>Recuperación de contraseña</b></br></br>Introduzca el correo electrónico con el que está registrado como usuario en el programa. Se le generará una nueva clave de acceso y se le enviará ésta a su dirección de e-mail.",
+    "password-restore-dialog-input-placeholder": "Correo electrónico",
+    "password-restore-dialog-button-text": "Restablecer",
+    "password-restore-dialog-error-message": "No se ha podido restablecer la nueva contraseña. Por favor, verifique que la dirección de correo electrónico especificada es correcta y se encuentra registrada en el sistema.",
+    "password-restore-dialog-success-message": "La nueva contraseña ha sido enviada a su dirección de correo electrónico. Por favor, verifique su bandeja de entrada y acceda al sistema con la nueva clave suministrada. A continuación, establezca una nueva clave de su elección a través de la opción de Datos de Acceso.",
+
     "dashboard-card-total-schools": "Total colegios registrados",
     "dashboard-card-total-students": "Total alumnos/as participantes",
     "dashboard-card-survey-progress": "Estado de la recogida activa (quedan {{remainingDays}} días)",
