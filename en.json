@@ -88,6 +88,8 @@
     "dashboard-option-profile-description": "View and / or modify our personal data and my password",
     "dashboard-option-protocol-pdf-title": "Application protocol",
     "dashboard-option-protocol-pdf-content": "View the application protocol document in PDF format",
+    "dashboard-option-generate-report-title": "Results report",
+    "dashboard-option-generate-report-content": "View the results report for the current survey in PDF format",    
 
     "access-url-list-course-header": "Course",
     "access-url-list-study-header": "Level",

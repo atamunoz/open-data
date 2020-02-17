@@ -88,6 +88,8 @@
     "dashboard-option-profile-description": "Ver y/o modificar mis datos y mi clave de acceso",
     "dashboard-option-protocol-pdf-title": "Protocolo de aplicación de los cuestionarios",
     "dashboard-option-protocol-pdf-content": "Ver el documento de protocolo de aplicación en formato PDF",
+    "dashboard-option-generate-report-title": "Informe de resultados",
+    "dashboard-option-generate-report-content": "Ver el informe de resultados de la recogida actual en formato PDF",
 
     "access-url-list-course-header": "Curso",
     "access-url-list-study-header": "Estudios",
