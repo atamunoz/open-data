@@ -90,8 +90,10 @@
     "dashboard-option-results-description": "View and analyze the answers obtained from the questionnaires, export data into CSV files",
     "dashboard-option-access-urls-title": "Access to the questionnaires of each course",
     "dashboard-option-access-urls-description": "View the URLs of the questionnaires to be passed for each course",
-    "dashboard-option-profile-title": "Coordinator access data",
-    "dashboard-option-profile-description": "View and / or modify our personal data and my password",
+    "dashboard-option-user-profile-title": "User access data",
+    "dashboard-option-user-profile-description": "View and / or modify my data and access password",
+    "dashboard-option-school-profile-title": "Coordinator access data",
+    "dashboard-option-school-profile-description": "View and / or modify the school data data and access password",    
     "dashboard-option-protocol-pdf-title": "Application protocol",
     "dashboard-option-protocol-pdf-content": "View the application protocol document in PDF format",
     "dashboard-option-generate-report-title": "Results report",
@@ -104,8 +106,7 @@
     "access-url-list-buttons-header": "Actions",
     
     "school-section-title-new": "Register new school",
-    "school-section-title-edit": "Edit school data",
-    "school-section-title-profile": "User profile",
+    "school-section-title-edit": "Edit school data",    
     "school-section-info-title": "School data",
     "school-section-info-content": "Please, review and complete the profile data of the school.",
     "school-section-access-subtitle": "Access data:",
@@ -133,6 +134,17 @@
     "school-section-signup-ok": "Dear {{name}} {{surname}}, <br /><br /> We have correctly received all the information from your school, so from this moment you are registered in our program. <br /><br /> Thank you very much for your participation.",
 
     "student-survey-section-success": "Dear student, <br /> <br /> We have correctly received all the answers in this questionnaire. Thank you very much for participating in the anti-bullying program of the Barça Foundation. <br /> <br /> Best regards.",
+
+    "profile-section-user-title": "Edit my user data",
+    "profile-section-user-instructions": "Fill in your personal information and / or modify your password.",
+    "profile-section-school-title": "Edit school data",
+    "profile-section-school-instructions": "Complete and / or modify the desired data. Please note that the e-mail and the school code cannot be altered.",
+
+    "user-form-access-subtitle": "Access data:",
+    "user-form-email-placeholder": "E-Mail",
+    "user-form-password-placeholder": "Password",
+    "user-form-name-placeholder": "Name",
+    "user-form-surname-placeholder": "Surname",
 
     "crud-no-data-placeholder": "No data currently registered",
     "crud-total-data-elements": "Total {{elements}} elements",

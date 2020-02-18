@@ -90,8 +90,10 @@
     "dashboard-option-results-description": "Veure i explotar les respostes obtingudes dels qüestionaris, exportar les dades a fitxers CSV",
     "dashboard-option-access-urls-title": "Accessos als formularis de cada curs",
     "dashboard-option-access-urls-description": "Veure les URL dels formularis a passar per a cada curs de primària",
-    "dashboard-option-profile-title": "Dades d’accés del coordinador",
-    "dashboard-option-profile-description": "Veure i / o modificar les meves  dades i clau d'accés",
+    "dashboard-option-user-profile-title": "Dades d’accés",
+    "dashboard-option-user-profile-description": "Veure i / o modificar les meves dades i clau d'accés",
+    "dashboard-option-school-profile-title": "Dades d’accés del coordinador",
+    "dashboard-option-school-profile-description": "Veure i / o modificar les dades de la escola i la clau d'accés",    
     "dashboard-option-protocol-pdf-title": "Protocol aplicació qüestionaris",
     "dashboard-option-protocol-pdf-content": "Veure el document de protocol d'aplicació en format PDF",
     "dashboard-option-generate-report-title": "Informe de resultats",
@@ -104,8 +106,7 @@
     "access-url-list-buttons-header": "Accions",
     
     "school-section-title-new": "Alta de nova escola",
-    "school-section-title-edit": "Edició de dades d'una escola",
-    "school-section-title-profile": "Perfil d'usuari",
+    "school-section-title-edit": "Edició de dades d'una escola",    
     "school-section-info-title": "Dades de l'escola",
     "school-section-info-content": "Revisi i completi les dades de perfil de l'escola.",
     "school-section-access-subtitle": "Dades d'accés del coordinador:",
@@ -133,6 +134,17 @@
     "school-section-signup-ok": "Apreciat/da {{name}} {{surname}}, <br /><br /> Hem rebut correctament tota la informació de la  seva escola . A partir d'aquest moment queda registrat en el nostre programa. <br /><br /> Moltes gràcies per la seva participació.",
 
     "student-survey-section-success": "Apreciat/da alumne/a, <br /> <br /> Hem rebut correctament totes les respostes d'aquest qüestionari. Moltes gràcies per participar en el programa contra el bullying de la Fundació Barça. <br /> <br />",
+
+    "profile-section-user-title": "Edita les meves dades d'usuari",
+    "profile-section-user-instructions": "Completi la seva informació personal i / o modifiqui la seva clau d'accés.",
+    "profile-section-school-title": "Edita les dades de l'escola",
+    "profile-section-school-instructions": "Completi i / o modifiqui les dades desitjades. Recordeu que l'e-mail i el codi de col·legi no es poden alterar.",
+
+    "user-form-access-subtitle": "Dades d’accés:",
+    "user-form-email-placeholder": "Correu electrònic",
+    "user-form-password-placeholder": "Contrasenya",
+    "user-form-name-placeholder": "Nom",
+    "user-form-surname-placeholder": "Cognoms",
 
     "crud-no-data-placeholder": "No hi ha dades registrades actualment",
     "crud-total-data-elements": "Total {{elements}} elements",

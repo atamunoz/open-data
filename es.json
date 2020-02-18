@@ -90,8 +90,10 @@
     "dashboard-option-results-description": "Ver y explotar las respuestas obtenidas de los cuestionarios, exportar los datos a ficheros CSV",
     "dashboard-option-access-urls-title": "Acceso a los cuestionarios de cada curso",
     "dashboard-option-access-urls-description": "Ver las URL de los cuestionarios a pasar por cada curso de primaria",
-    "dashboard-option-profile-title": "Datos de acceso del coordinador",
-    "dashboard-option-profile-description": "Ver y/o modificar mis datos y mi clave de acceso",
+    "dashboard-option-user-profile-title": "Datos de acceso del coordinador",
+    "dashboard-option-user-profile-description": "Ver y/o modificar mis datos y mi clave de acceso",
+    "dashboard-option-school-profile-title": "Datos de acceso del coordinador",
+    "dashboard-option-school-profile-description": "Ver y/o modificar mis datos y mi clave de acceso",
     "dashboard-option-protocol-pdf-title": "Protocolo de aplicación de los cuestionarios",
     "dashboard-option-protocol-pdf-content": "Ver el documento de protocolo de aplicación en formato PDF",
     "dashboard-option-generate-report-title": "Informe de resultados",
@@ -104,8 +106,7 @@
     "access-url-list-buttons-header": "Acciones",
     
     "school-section-title-new": "Alta de nuevo colegio",
-    "school-section-title-edit": "Edición de datos de un colegio",
-    "school-section-title-profile": "Perfil de usuario",
+    "school-section-title-edit": "Edición de datos de un colegio",    
     "school-section-info-title": "Datos del colegio",
     "school-section-info-content": "Revise y complete los datos de perfil del colegio.",
     "school-section-access-subtitle": "Datos de acceso del coordinador:",
@@ -133,6 +134,17 @@
     "school-section-signup-ok": "Estimado/a {{name}} {{surname}}, <br /><br /> Hemos recibido correctamente toda la información de su colegio. A partir de este momento queda registrado en nuestro programa. <br /><br /> Muchas gracias por su participación.",    
     
     "student-survey-section-success": "Estimado alumno/a, <br /><br /> Hemos recibido correctamente todas las respuestas de este cuestionario. Muchas gracias por participar en el programa contra el bullying de la Fundacion Barça. <br /><br />",
+
+    "profile-section-user-title": "Editar mis datos de usuario",
+    "profile-section-user-instructions": "Complete su información personal y/o modifique su clave de acceso.",
+    "profile-section-school-title": "Editar los datos del colegio",
+    "profile-section-school-instructions": "Complete y/o modifique los datos deseados. Tenga en cuenta que el e-mail y el código de colegio no se pueden alterar.",
+
+    "user-form-access-subtitle": "Datos de acceso:",
+    "user-form-email-placeholder": "Correo electrónico",
+    "user-form-password-placeholder": "Contraseña",
+    "user-form-name-placeholder": "Nombre",
+    "user-form-surname-placeholder": "Apellidos",
 
     "crud-no-data-placeholder": "No hay datos registrados actualmente",
     "crud-total-data-elements": "Total {{elements}} elementos",
