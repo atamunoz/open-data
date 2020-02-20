@@ -37,8 +37,8 @@
     "modal-button-next": "Següent",
     "modal-button-finish": "Finalitzar",
 
-    "progress-dialog-loading-data": "Carregant dades...",
-    "progress-dialog-saving-data": "Guardant dades...",
+    "progress-dialog-loading-data": "<i class=\"fas fa-cog fa-spin\"></i> &#124;Carregant dades...",
+    "progress-dialog-saving-data": "<i class=\"fas fa-cog fa-spin\"></i> &#124;Guardant dades...",
 
     "data-load-error-dialog-title": "Error en la càrrega de les dades",
     "data-load-error-dialog-message": "S'ha produït un error {{status}} al carregar les dades. El detall de l'error és el següent: <br /><br /> {{message}} <br /><br /> Si us plau, torneu a intentar-ho més tard.",
@@ -164,6 +164,10 @@
     "school-crud-edit-title": "Modificar dades d'una escola",
     "school-crud-edit-instructions": "Modifiqueu les dades desitjades de l'escola. És important destacar que l'email de l'coordinador no es pot alterar",
     "school-crud-list-title": "Llistat d'escoles registrats",    
+
+    "survey-answers-list-title": "Llistat de participacions i respostes",
+    "survey-answers-to-date-label": "fins",
+    "survey-answers-filter-label": "Filtrar",
 
     "action-button-create": "Crear",
     "action-button-edit": "Modificar",

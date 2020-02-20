@@ -37,8 +37,8 @@
     "modal-button-next": "Next",
     "modal-button-finish": "Finish",
 
-    "progress-dialog-loading-data": "Loading data...",
-    "progress-dialog-saving-data": "Saving data...",
+    "progress-dialog-loading-data": "<i class=\"fas fa-cog fa-spin\"></i> &#124;Loading data...",
+    "progress-dialog-saving-data": "<i class=\"fas fa-cog fa-spin\"></i> &#124;Saving data...",
 
     "data-load-error-dialog-title": "Data loading error",
     "data-load-error-dialog-message": "An error {{status}} occurred while loading data. The error detail is as follows: <br /><br /> {{message}} <br /><br /> Please try again later.",
@@ -164,6 +164,10 @@
     "school-crud-edit-title": "Modify school data",
     "school-crud-edit-instructions": "Modify the desired data of the school. Importantly, the coordinator's email cannot be altered",
     "school-crud-list-title": "List of registered schools",    
+
+    "survey-answers-list-title": "List of participants and answers",
+    "survey-answers-to-date-label": "to",
+    "survey-answers-filter-label": "Filter",
 
     "action-button-create": "Create",
     "action-button-edit": "Modify",

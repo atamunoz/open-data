@@ -37,8 +37,8 @@
     "modal-button-next": "Siguiente",
     "modal-button-finish": "Finalizar",
 
-    "progress-dialog-loading-data": "Cargando datos...",
-    "progress-dialog-saving-data": "Guardando datos...",
+    "progress-dialog-loading-data": "<i class=\"fas fa-cog fa-spin\"></i> &#124;Cargando datos...",
+    "progress-dialog-saving-data": "<i class=\"fas fa-cog fa-spin\"></i> &#124;Guardando datos...",
 
     "data-load-error-dialog-title": "Error en la carga de los datos",
     "data-load-error-dialog-message": "Se ha producido un error {{status}} al cargar los datos. El detalle del error es el siguiente: <br /><br />{{message}}<br /><br /> Por favor, vuelva a intentarlo más tarde.",
@@ -163,7 +163,11 @@
     "school-crud-create-instructions": "Complete cada uno de los datos del nuevo colegio. Tenga en cuenta que los cuestionarios opcionales se asignan aleatoriamente.",
     "school-crud-edit-title": "Modificar datos de un colegio",
     "school-crud-edit-instructions": "Modifique los datos deseados del colegio. Es importante destacar que el email del coordinador no se puede alterar",
-    "school-crud-list-title": "Listado de colegios registrados",    
+    "school-crud-list-title": "Listado de colegios registrados",
+
+    "survey-answers-list-title": "Listado de participaciones y respuestas",
+    "survey-answers-to-date-label": "hasta",
+    "survey-answers-filter-label": "Filtrar",
 
     "action-button-create": "Crear",
     "action-button-edit": "Modificar",
