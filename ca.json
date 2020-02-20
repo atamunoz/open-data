@@ -37,8 +37,8 @@
     "modal-button-next": "Següent",
     "modal-button-finish": "Finalitzar",
 
-    "progress-dialog-loading-data": "<i class=\"fas fa-cog fa-spin\"></i> &#124;Carregant dades...",
-    "progress-dialog-saving-data": "<i class=\"fas fa-cog fa-spin\"></i> &#124;Guardant dades...",
+    "progress-dialog-loading-data": "<i class=\"fas fa-cog fa-spin\"></i> Carregant dades...",
+    "progress-dialog-saving-data": "<i class=\"fas fa-cog fa-spin\"></i> Guardant dades...",
 
     "data-load-error-dialog-title": "Error en la càrrega de les dades",
     "data-load-error-dialog-message": "S'ha produït un error {{status}} al carregar les dades. El detall de l'error és el següent: <br /><br /> {{message}} <br /><br /> Si us plau, torneu a intentar-ho més tard.",
@@ -68,7 +68,7 @@
     "login-create-account": "Resgístra’t com escola",
     "login-collaborators": "Col·labora:",
     "login-error-dialog-title": "Error d'accés",
-    "login-error-400": "Accés denegat: Credencials no vàlides. Si us plau, revisi el seu correu electrònic i la contrasenya, i torneu a intentar",
+    "login-error-400": "Accés denegat: Credencials no vàlides.</br></br>Si us plau, revisi el seu correu electrònic i la contrasenya, i torneu a intentar.",
 
     "password-restore-dialog-title": "<b>Recuperació de contrasenya</b></br></br>Introdueixi el correu electrònic amb el que està registrat com a usuari en el programa. Se li generarà una nova clau d'accés i se li enviarà aquesta a la seva adreça de correu electrònic.",
     "password-restore-dialog-input-placeholder": "Correu electrònic",
@@ -166,7 +166,7 @@
     "school-crud-list-title": "Llistat d'escoles registrats",    
 
     "survey-answers-list-title": "Llistat de participacions i respostes",
-    "survey-answers-to-date-label": "fins",
+    "survey-answers-to-date-label": "  fins  ",
     "survey-answers-filter-label": "Filtrar",
 
     "action-button-create": "Crear",

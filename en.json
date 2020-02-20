@@ -37,8 +37,8 @@
     "modal-button-next": "Next",
     "modal-button-finish": "Finish",
 
-    "progress-dialog-loading-data": "<i class=\"fas fa-cog fa-spin\"></i> &#124;Loading data...",
-    "progress-dialog-saving-data": "<i class=\"fas fa-cog fa-spin\"></i> &#124;Saving data...",
+    "progress-dialog-loading-data": "<i class=\"fas fa-cog fa-spin\"></i> Loading data...",
+    "progress-dialog-saving-data": "<i class=\"fas fa-cog fa-spin\"></i> Saving data...",
 
     "data-load-error-dialog-title": "Data loading error",
     "data-load-error-dialog-message": "An error {{status}} occurred while loading data. The error detail is as follows: <br /><br /> {{message}} <br /><br /> Please try again later.",
@@ -68,7 +68,7 @@
     "login-create-account": "Please, register now as a school",
     "login-collaborators": "Collaborate:",
     "login-error-dialog-title": "Access error",
-    "login-error-400": "Access denied: Invalid credentials. Please check your email and password, and try again",
+    "login-error-400": "Access denied: Invalid credentials.</br></br>Please check your email and password, and try again.",
 
     "password-restore-dialog-title": "<b>Password recovery</b></br></br>Enter the e-mail address associated to your registered user. A new access code will be generated and sent to your e-mail address.",
     "password-restore-dialog-input-placeholder": "E-Mail",
@@ -166,7 +166,7 @@
     "school-crud-list-title": "List of registered schools",    
 
     "survey-answers-list-title": "List of participants and answers",
-    "survey-answers-to-date-label": "to",
+    "survey-answers-to-date-label": "  to  ",
     "survey-answers-filter-label": "Filter",
 
     "action-button-create": "Create",

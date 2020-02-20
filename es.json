@@ -37,8 +37,8 @@
     "modal-button-next": "Siguiente",
     "modal-button-finish": "Finalizar",
 
-    "progress-dialog-loading-data": "<i class=\"fas fa-cog fa-spin\"></i> &#124;Cargando datos...",
-    "progress-dialog-saving-data": "<i class=\"fas fa-cog fa-spin\"></i> &#124;Guardando datos...",
+    "progress-dialog-loading-data": "<i class=\"fas fa-cog fa-spin\"></i> Cargando datos...",
+    "progress-dialog-saving-data": "<i class=\"fas fa-cog fa-spin\"></i> Guardando datos...",
 
     "data-load-error-dialog-title": "Error en la carga de los datos",
     "data-load-error-dialog-message": "Se ha producido un error {{status}} al cargar los datos. El detalle del error es el siguiente: <br /><br />{{message}}<br /><br /> Por favor, vuelva a intentarlo más tarde.",
@@ -68,7 +68,7 @@
     "login-create-account": "Regístrese como colegio",
     "login-collaborators": "Colabora:",
     "login-error-dialog-title": "Error de acceso",
-    "login-error-400": "Acceso denegado: Credenciales no válidas. Por favor, revise su correo electrónico y su contraseña, y vuelva a intentarlo",
+    "login-error-400": "Acceso denegado: Credenciales no válidas.</br></br>Por favor, revise su correo electrónico y su contraseña, y vuelva a intentarlo.",
 
     "password-restore-dialog-title": "<b>Recuperación de contraseña</b></br></br>Introduzca el correo electrónico con el que está registrado como usuario en el programa. Se le generará una nueva clave de acceso y se le enviará ésta a su dirección de e-mail.",
     "password-restore-dialog-input-placeholder": "Correo electrónico",
@@ -166,7 +166,7 @@
     "school-crud-list-title": "Listado de colegios registrados",
 
     "survey-answers-list-title": "Listado de participaciones y respuestas",
-    "survey-answers-to-date-label": "hasta",
+    "survey-answers-to-date-label": "  hasta  ",
     "survey-answers-filter-label": "Filtrar",
 
     "action-button-create": "Crear",
