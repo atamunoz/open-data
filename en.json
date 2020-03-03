@@ -39,6 +39,7 @@
 
     "progress-dialog-loading-data": "<i class=\"fas fa-cog fa-spin\"></i> Loading data...",
     "progress-dialog-saving-data": "<i class=\"fas fa-cog fa-spin\"></i> Saving data...",
+    "progress-dialog-generating-report": "<i class=\"fas fa-cog fa-spin\"></i> Generating report...",
 
     "data-load-error-dialog-title": "Data loading error",
     "data-load-error-dialog-message": "An error {{status}} occurred while loading data. The error detail is as follows: <br /><br /> {{message}} <br /><br /> Please try again later.",

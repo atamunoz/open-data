@@ -39,6 +39,7 @@
 
     "progress-dialog-loading-data": "<i class=\"fas fa-cog fa-spin\"></i> Carregant dades...",
     "progress-dialog-saving-data": "<i class=\"fas fa-cog fa-spin\"></i> Guardant dades...",
+    "progress-dialog-generating-report": "<i class=\"fas fa-cog fa-spin\"></i> Generant informe...",
 
     "data-load-error-dialog-title": "Error en la càrrega de les dades",
     "data-load-error-dialog-message": "S'ha produït un error {{status}} al carregar les dades. El detall de l'error és el següent: <br /><br /> {{message}} <br /><br /> Si us plau, torneu a intentar-ho més tard.",
