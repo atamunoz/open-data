@@ -97,8 +97,8 @@
     "dashboard-option-school-profile-description": "Veure i / o modificar les dades de la escola i la clau d'accés",    
     "dashboard-option-protocol-pdf-title": "Protocol aplicació qüestionaris",
     "dashboard-option-protocol-pdf-content": "Veure el document de protocol d'aplicació en format PDF",
-    "dashboard-option-generate-report-title": "Informe de resultats",
-    "dashboard-option-generate-report-content": "Veure l'informe de resultats de la recollida actual en format PDF",
+    "dashboard-option-generate-report-title": "Informes de resultats",
+    "dashboard-option-generate-report-content": "Veure els informes de resultats de recollides finalitzades en format PDF",
 
     "access-url-list-course-header": "Curs",
     "access-url-list-study-header": "Estudis",
@@ -181,6 +181,7 @@
     "action-button-paste": "Enganxar",
     "action-button-back": "Tornar",
     "action-button-export": "Exportar",
+    "action-button-report": "Veure informe",
     
     "validation-field-required": "Aquest camp és obligatori",
     "validation-question-required": "Has contestar aquesta pregunta per continuar",
