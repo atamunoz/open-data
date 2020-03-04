@@ -105,6 +105,11 @@
     "access-url-list-url-header": "URL",
     "access-url-list-total-participants": "Total participantes",
     "access-url-list-buttons-header": "Acciones",
+
+    "survey-report-list-course-header": "Curso académico",
+    "survey-report-list-survey-header": "Recogida",
+    "survey-report-list-participants-header": "Participantes",
+    "survey-report-list-actions-header": "Acciones",
     
     "school-section-title-new": "Alta de nuevo colegio",
     "school-section-title-edit": "Edición de datos de un colegio",    

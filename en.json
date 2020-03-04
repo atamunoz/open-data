@@ -105,6 +105,11 @@
     "access-url-list-url-header": "URL",
     "access-url-list-total-participants": "Total participants",
     "access-url-list-buttons-header": "Actions",
+
+    "survey-report-list-course-header": "Course",
+    "survey-report-list-survey-header": "Survey",
+    "survey-report-list-participants-header": "Participantes",
+    "survey-report-list-actions-header": "Actions",
     
     "school-section-title-new": "Register new school",
     "school-section-title-edit": "Edit school data",    
