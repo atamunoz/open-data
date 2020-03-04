@@ -201,5 +201,6 @@
     "validation-alphanum-characters-not-allowed": "Solamente se permiten caracteres numéricos",
     "validation-max-length-exceeded": "La longitud máxima es de {{maxLength}} caracteres",
     "validation-assigned-questionnaires-required": "Debe seleccionar al menos 2 questionarios opcionales",
-    "validation-assigned-questionnaires-conflict": "Los cursos de los cuestionarios asignados no pueden solaparse"
+    "validation-assigned-questionnaires-conflict": "Los cursos de los cuestionarios asignados no pueden solaparse",
+    "validation-school-code-not-allowed": "Código de colegio no registrado en el programa"
 }

@@ -201,5 +201,6 @@
     "validation-alphanum-characters-not-allowed": "Only numeric characters are allowed",
     "validation-max-length-exceeded": "The maximum length is {{maxLength}} characters",
     "validation-assigned-questionnaires-required": "You must select at least 2 optional questionnaires",
-    "validation-assigned-questionnaires-conflict": "The grades for the assigned questionnaires cannot overlap"
+    "validation-assigned-questionnaires-conflict": "The grades for the assigned questionnaires cannot overlap",
+    "validation-school-code-not-allowed": "School code not registered in the program"
 }

@@ -201,5 +201,6 @@
     "validation-alphanum-characters-not-allowed": "Només es permeten caràcters numèrics",
     "validation-max-length-exceeded": "La longitud màxima és de {{maxLength}} caràcters",
     "validation-assigned-questionnaires-required": "Heu de seleccionar al menys 2 qüestionaris opcionals",
-    "validation-assigned-questionnaires-conflict": "Els cursos dels qüestionaris assignats no poden solapar"
+    "validation-assigned-questionnaires-conflict": "Els cursos dels qüestionaris assignats no poden solapar",
+    "validation-school-code-not-allowed": "Codi d'escola no registrat al programa"
 }
