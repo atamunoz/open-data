@@ -28,6 +28,8 @@
     "menu-results-tooltip": "View and export surveys results",
     "menu-profile": "Profile",
     "menu-profile-tooltip": "Manage user data and password",
+    "menu-help": "Help",
+    "menu-help-tooltip": "Contact the support team to solve doubts / problems",
     "menu-exit": "Exit",
     "menu-exit-tooltip": "Close session and exit the application",
 

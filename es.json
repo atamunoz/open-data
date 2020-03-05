@@ -28,6 +28,8 @@
     "menu-results-tooltip": "Consultar los resultados de las encuestas realizadas",
     "menu-profile": "Perfil",
     "menu-profile-tooltip": "Gestionar mis datos de usuario y clave de acceso",
+    "menu-help": "Ayuda",
+    "menu-help-tooltip": "Contactar con el equipo de soporte para solucionar dudas/problemas",
     "menu-exit": "Salir",
     "menu-exit-tooltip": "Cerrar sesión y salir de la aplicación",
 
