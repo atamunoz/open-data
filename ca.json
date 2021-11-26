@@ -17,7 +17,7 @@
     "img-claim-white": "img-claim-white__ca",
     "img-logo-fund": "img-logo-fund__ca",
     "img-logo-fund-white": "img-logo-fund-white__ca",
-    
+
     "menu-home": "Inici",
     "menu-home-tooltip": "Tornar al dashboard",
     "menu-surveys": "Recollides",
@@ -55,16 +55,16 @@
     "no-element-selected-dialog-message": "Ha de seleccionar un element de la llista",
 
     "access-code-error-dialog-title": "Error en l'accés d'usuari",
-    "access-code-error-dialog-message": "El codi d'accés {{code}} no és vàlid",    
-    "access-survey-error-dialog-message": "Atenció: actualment no hi ha una recollida activa, de manera que no es pot accedir a l'emplenament de qüestionaris. Si us plau, torni a intentar-ho quan s'hagi iniciat la següent recollida. Gràcies.",    
+    "access-code-error-dialog-message": "El codi d'accés {{code}} no és vàlid",
+    "access-survey-error-dialog-message": "Atenció: actualment no hi ha una recollida activa, de manera que no es pot accedir a l'emplenament de qüestionaris. Si us plau, torni a intentar-ho quan s'hagi iniciat la següent recollida. Gràcies.",
 
     "school-code-exists-dialog-message": "Atenció: Ja hi ha una escola registrada amb el codi especificat. Si us plau, revisi aquest codi i, si el problema persisteix, poseu-vos en contacte amb la nostra direcció de suport: infobull@uco.es.",
-    
+
     "login-title": "Accés d'usuari",
     "login-user": "Usuari",
-    "login-user-placeholder": "Introduïu l'usuari / correu electrònic",    
+    "login-user-placeholder": "Introduïu l'usuari / correu electrònic",
     "login-password": "Contrasenya",
-    "login-password-placeholder": "Introduïu la contrasenya d'accés",    
+    "login-password-placeholder": "Introduïu la contrasenya d'accés",
     "login-forgotten-password": "Ha oblidat la seva contrasenya?",
     "login-button": "Entrar",
     "login-no-account": "Encara no disposa d'un compte?",
@@ -83,7 +83,7 @@
     "dashboard-card-total-students": "Total alumnes participants",
     "dashboard-card-survey-progress": "Estat de recollida activa (queden {{remainingDays}} dies)",
     "dashboard-card-no-active-survey": "No hi ha recollida activat actualment",
-    
+
     "dashboard-options-section": "Opcions",
     "dashboard-option-surveys-title": "Gestionar les recollides",
     "dashboard-option-surveys-description": "Programar noves recollides, consultar i / o modificar recollides existents",
@@ -91,12 +91,12 @@
     "dashboard-option-schools-description": "Veure llistat de les escoles registrades, donar d'alta noves escoles i / o modificar les seves dades",
     "dashboard-option-results-title": "Resultats de les enquestes",
     "dashboard-option-results-description": "Veure i explotar les respostes obtingudes dels qüestionaris, exportar les dades a fitxers CSV",
-    "dashboard-option-access-urls-title": "Accessos als formularis de cada curs",
-    "dashboard-option-access-urls-description": "Veure les URL dels formularis a passar per a cada curs de primària",
+    "dashboard-option-access-urls-title": "Accessos als vostres formularis per a cada curs de primària",
+    "dashboard-option-access-urls-description": "Copieu i carregueu les url que us facilitem aquí a cada ordinador on es passin els test, no copieu una url ja carregada al navegador",
     "dashboard-option-user-profile-title": "Dades d’accés",
     "dashboard-option-user-profile-description": "Veure i / o modificar les meves dades i clau d'accés",
-    "dashboard-option-school-profile-title": "Dades d’accés del coordinador",
-    "dashboard-option-school-profile-description": "Veure i / o modificar les dades de la escola i la clau d'accés",    
+    "dashboard-option-school-profile-title": "Dades d'accés del centre",
+    "dashboard-option-school-profile-description": "Veure les dades d'acce´s de l'escola",
     "dashboard-option-protocol-pdf-title": "Protocol aplicació qüestionaris",
     "dashboard-option-protocol-pdf-description": "Veure el document de protocol d'aplicació en format PDF",
     "dashboard-option-generate-report-title": "Informes de resultats",
@@ -114,9 +114,9 @@
     "survey-report-list-survey-header": "Recollida",
     "survey-report-list-participants-header": "Participants",
     "survey-report-list-actions-header": "Accions",
-    
+
     "school-section-title-new": "Alta de nova escola",
-    "school-section-title-edit": "Edició de dades d'una escola",    
+    "school-section-title-edit": "Edició de dades d'una escola",
     "school-section-info-title": "Dades de l'escola",
     "school-section-info-content": "Revisi i completi les dades de perfil de l'escola.",
     "school-section-access-subtitle": "Dades d'accés del coordinador:",
@@ -125,8 +125,10 @@
     "school-section-questionnaires-subtitle": "Qüestionaris assignats",
     "school-section-email-placeholder": "Correu electrònic",
     "school-section-password-placeholder": "Contrasenya",
+    "school-section-repeatpassword-placeholder": "Repetir contrasenya",
     "school-section-contactname-placeholder": "Nom del coordinador",
     "school-section-contactsurname-placeholder": "Cognoms del coordinador",
+    "school-section-contactemail-placeholder": "Correu electrònic de contacte",
     "school-section-code-placeholder": "Codi de centre",
     "school-section-name-placeholder": "Nom de l'escola",
     "school-section-address-placeholder": "Adreça",
@@ -134,6 +136,7 @@
     "school-section-province-placeholder": "Província",
     "school-section-country-placeholder": "País",
     "school-section-zipcode-placeholder": "Codi postal",
+    "school-section-numstudents-placeholder": "Nombre d'alumnes",
     "school-section-child-placeholder": "Educació infantil",
     "school-section-primary-placeholder": "Educació primària",
     "school-section-secondary-placeholder": "Educació secundària",
@@ -173,7 +176,7 @@
     "school-crud-create-instructions": "Completi cada una de les dades de la nova escola. Recordeu que els qüestionaris opcionals s'assignen aleatòriament.",
     "school-crud-edit-title": "Modificar dades d'una escola",
     "school-crud-edit-instructions": "Modifiqueu les dades desitjades de l'escola. És important destacar que l'email de l'coordinador no es pot alterar",
-    "school-crud-list-title": "Llistat d'escoles registrats",    
+    "school-crud-list-title": "Llistat d'escoles registrats",
 
     "survey-answers-list-title": "Llistat de participacions i respostes",
     "survey-answers-to-date-label": "  fins  ",
@@ -206,7 +209,7 @@
     "action-button-export": "Exportar",
     "action-button-report": "Veure informe",
     "action-button-send": "Enviar",
-    
+
     "validation-field-required": "Aquest camp és obligatori",
     "validation-question-required": "Has contestar aquesta pregunta per continuar",
     "validation-email-format": "Introduïu un e-mail vàlid",
@@ -221,5 +224,6 @@
     "validation-max-length-exceeded": "La longitud màxima és de {{maxLength}} caràcters",
     "validation-assigned-questionnaires-required": "Heu de seleccionar al menys 2 qüestionaris opcionals",
     "validation-assigned-questionnaires-conflict": "Els cursos dels qüestionaris assignats no poden solapar",
-    "validation-school-code-not-allowed": "Codi d'escola no registrat al programa"
+    "validation-school-code-not-allowed": "Codi d'escola no registrat al programa",
+    "validation-password-match": "Les contrasenyes introduïdes han de coincidir"
 }

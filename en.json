@@ -11,13 +11,13 @@
     "appname-header-introduction": "Introduction",
     "appname-about": "Barça Foundation",
     "appname-footer": "@GeoWE.org",
-    
+
     "img-claim-blue": "img-claim-blue__en",
     "img-claim-orange": "img-claim-orange__en",
     "img-claim-white": "img-claim-white__en",
     "img-logo-fund": "img-logo-fund__en",
     "img-logo-fund-white": "img-logo-fund-white__en",
-    
+
     "menu-home": "Home",
     "menu-home-tooltip": "Return to dashboard",
     "menu-surveys": "Surveys",
@@ -55,16 +55,16 @@
     "no-element-selected-dialog-message": "You must select an item from the list",
 
     "access-code-error-dialog-title": "User access failed",
-    "access-code-error-dialog-message": "The access code {{code}} is not valid",    
-    "access-survey-error-dialog-message": "Attention: there is currently no active survey, so you can not access the questionnaires. Please try again when the next survey has started. Thank you.",    
+    "access-code-error-dialog-message": "The access code {{code}} is not valid",
+    "access-survey-error-dialog-message": "Attention: there is currently no active survey, so you can not access the questionnaires. Please try again when the next survey has started. Thank you.",
 
     "school-code-exists-dialog-message": "Attention: There is already a registered school with the specified code. Please review this code and, if the problem persists, contact our support address: infobull@uco.es.",
-    
+
     "login-title": "User access",
     "login-user": "User",
-    "login-user-placeholder": "Insert user / e-mail",    
+    "login-user-placeholder": "Insert user / e-mail",
     "login-password": "Password",
-    "login-password-placeholder": "Insert access password",    
+    "login-password-placeholder": "Insert access password",
     "login-forgotten-password": "Forgot your password?",
     "login-button": "Sign in",
     "login-no-account": "Don't you have an account?",
@@ -83,7 +83,7 @@
     "dashboard-card-total-students": "Total participating students",
     "dashboard-card-survey-progress": "Status of active survey ({{remainingDays}} days left)",
     "dashboard-card-no-active-survey": "No survey currently active",
-    
+
     "dashboard-options-section": "Options",
     "dashboard-option-surveys-title": "Manage surveys",
     "dashboard-option-surveys-description": "Schedule new surveys, view and / or modify existing surveys",
@@ -91,16 +91,16 @@
     "dashboard-option-schools-description": "View a list of registered schools, register new schools and / or modify their data",
     "dashboard-option-results-title": "Survey results",
     "dashboard-option-results-description": "View and analyze the answers obtained from the questionnaires, export data into CSV files",
-    "dashboard-option-access-urls-title": "Access to the questionnaires of each course",
-    "dashboard-option-access-urls-description": "View the URLs of the questionnaires to be passed for each course",
+    "dashboard-option-access-urls-title": "Access the questionnaires for each course",
+    "dashboard-option-access-urls-description": "View the questionnaires URLs to be passed for each course",
     "dashboard-option-user-profile-title": "User access data",
     "dashboard-option-user-profile-description": "View and / or modify my data and access password",
-    "dashboard-option-school-profile-title": "Coordinator access data",
-    "dashboard-option-school-profile-description": "View and / or modify the school data data and access password",    
+    "dashboard-option-school-profile-title": "School access data",
+    "dashboard-option-school-profile-description": "View and / or modify the school data and access password",
     "dashboard-option-protocol-pdf-title": "Application protocol",
     "dashboard-option-protocol-pdf-description": "View the application protocol document in PDF format",
     "dashboard-option-generate-report-title": "Results reports",
-    "dashboard-option-generate-report-description": "View the results reports for completed surveys in PDF format",    
+    "dashboard-option-generate-report-description": "View the results reports for completed surveys in PDF format",
     "dashboard-option-contact-title": "Help and Support",
     "dashboard-option-contact-description": "Contact us if you need to answer any questions about the application",
 
@@ -114,9 +114,9 @@
     "survey-report-list-survey-header": "Survey",
     "survey-report-list-participants-header": "Participantes",
     "survey-report-list-actions-header": "Actions",
-    
+
     "school-section-title-new": "Register new school",
-    "school-section-title-edit": "Edit school data",    
+    "school-section-title-edit": "Edit school data",
     "school-section-info-title": "School data",
     "school-section-info-content": "Please, review and complete the profile data of the school.",
     "school-section-access-subtitle": "Access data:",
@@ -125,8 +125,10 @@
     "school-section-questionnaires-subtitle": "Assigned questionnaires",
     "school-section-email-placeholder": "E-Mail",
     "school-section-password-placeholder": "Password",
+    "school-section-repeatpassword-placeholder": "Repeat password",
     "school-section-contactname-placeholder": "Contact first name",
     "school-section-contactsurname-placeholder": "Contact last name",
+    "school-section-contactemail-placeholder": "Contact e-mail",
     "school-section-code-placeholder": "School code",
     "school-section-name-placeholder": "School name",
     "school-section-address-placeholder": "Address",
@@ -134,6 +136,7 @@
     "school-section-province-placeholder": "Province / County",
     "school-section-country-placeholder": "Country",
     "school-section-zipcode-placeholder": "Zip code",
+    "school-section-numstudents-placeholder": "Number of students",
     "school-section-child-placeholder": "Early childhood education",
     "school-section-primary-placeholder": "Primary education",
     "school-section-secondary-placeholder": "Secondary education",
@@ -158,7 +161,7 @@
 
     "crud-no-data-placeholder": "No data currently registered",
     "crud-total-data-elements": "Total {{elements}} elements",
-    
+
     "survey-crud-create-title": "Create new survey",
     "survey-crud-create-instructions": "Complete each field of the new survey. Please note that survey periods cannot overlap.",
     "survey-crud-edit-title": "Modify survey data",
@@ -173,7 +176,7 @@
     "school-crud-create-instructions": "Complete each of the data of the new school. Note that optional questionnaires are randomly assigned.",
     "school-crud-edit-title": "Modify school data",
     "school-crud-edit-instructions": "Modify the desired data of the school. Importantly, the coordinator's email cannot be altered",
-    "school-crud-list-title": "List of registered schools",    
+    "school-crud-list-title": "List of registered schools",
 
     "survey-answers-list-title": "List of participants and answers",
     "survey-answers-to-date-label": "  to  ",
@@ -206,7 +209,7 @@
     "action-button-export": "Export",
     "action-button-report": "View report",
     "action-button-send": "Send",
-    
+
     "validation-field-required": "This field is required",
     "validation-question-required": "You must answer this question to continue",
     "validation-email-format": "Insert a valid e-mail",
@@ -221,5 +224,6 @@
     "validation-max-length-exceeded": "The maximum length is {{maxLength}} characters",
     "validation-assigned-questionnaires-required": "You must select at least 2 optional questionnaires",
     "validation-assigned-questionnaires-conflict": "The grades for the assigned questionnaires cannot overlap",
-    "validation-school-code-not-allowed": "School code not registered in the program"
+    "validation-school-code-not-allowed": "School code not registered in the program",
+    "validation-password-match": "Inserted passwords do not match"
 }

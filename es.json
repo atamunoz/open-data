@@ -11,13 +11,13 @@
     "appname-header-introduction": "Introducción",
     "appname-about": "Fundación Barça",
     "appname-footer": "@GeoWE.org",
-    
+
     "img-claim-blue": "img-claim-blue__es",
     "img-claim-orange": "img-claim-orange__es",
     "img-claim-white": "img-claim-white__es",
     "img-logo-fund": "img-logo-fund__es",
     "img-logo-fund-white": "img-logo-fund-white__es",
-    
+
     "menu-home": "Inicio",
     "menu-home-tooltip": "Regresar al dashboard",
     "menu-surveys": "Recogidas",
@@ -55,16 +55,16 @@
     "no-element-selected-dialog-message": "Debe seleccionar un elemento de la lista",
 
     "access-code-error-dialog-title": "Error en el acceso de usuario",
-    "access-code-error-dialog-message": "El código de acceso {{code}} no es válido",    
-    "access-survey-error-dialog-message": "Atención: actualmente no existe una recogida activa, por lo que no se puede acceder a la cumplimentación de cuestionarios. Por favor, vuelva a intentarlo cuando se haya iniciado la siguiente recogida. Gracias.", 
+    "access-code-error-dialog-message": "El código de acceso {{code}} no es válido",
+    "access-survey-error-dialog-message": "Atención: actualmente no existe una recogida activa, por lo que no se puede acceder a la cumplimentación de cuestionarios. Por favor, vuelva a intentarlo cuando se haya iniciado la siguiente recogida. Gracias.",
 
     "school-code-exists-dialog-message": "Atención: Ya existe un colegio registrado con el código especificado. Por favor, revise dicho código y, si el problema persiste, póngase en contacto con nuestra dirección de soporte: infobull@uco.es.",
-    
+
     "login-title": "Acceso de usuario",
     "login-user": "Usuario",
-    "login-user-placeholder": "Introduzca el usuario / correo electrónico",    
+    "login-user-placeholder": "Introduzca el usuario / correo electrónico",
     "login-password": "Password",
-    "login-password-placeholder": "Introduzca la clave de acceso",    
+    "login-password-placeholder": "Introduzca la clave de acceso",
     "login-forgotten-password": "¿Ha olvidado su contraseña?",
     "login-button": "Acceder",
     "login-no-account": "¿Aún no dispone de una cuenta?",
@@ -83,7 +83,7 @@
     "dashboard-card-total-students": "Total alumnos/as participantes",
     "dashboard-card-survey-progress": "Estado de la recogida activa (quedan {{remainingDays}} días)",
     "dashboard-card-no-active-survey": "No hay recogida activada actualmente",
-    
+
     "dashboard-options-section": "Opciones",
     "dashboard-option-surveys-title": "Gestionar recogidas",
     "dashboard-option-surveys-description": "Programar nuevas recogidas, consultar y/o modificar recogidas existentes",
@@ -95,7 +95,7 @@
     "dashboard-option-access-urls-description": "Ver las URL de los cuestionarios a pasar por cada curso de primaria",
     "dashboard-option-user-profile-title": "Datos de acceso",
     "dashboard-option-user-profile-description": "Ver y/o modificar mis datos y mi clave de acceso",
-    "dashboard-option-school-profile-title": "Datos de acceso del coordinador",
+    "dashboard-option-school-profile-title": "Datos de acceso del centro",
     "dashboard-option-school-profile-description": "Ver y/o modificar los datos del colegio y clave de acceso",
     "dashboard-option-protocol-pdf-title": "Protocolo de aplicación de los cuestionarios",
     "dashboard-option-protocol-pdf-description": "Ver el documento de protocolo de aplicación en formato PDF",
@@ -114,9 +114,9 @@
     "survey-report-list-survey-header": "Recogida",
     "survey-report-list-participants-header": "Participantes",
     "survey-report-list-actions-header": "Acciones",
-    
+
     "school-section-title-new": "Alta de nuevo colegio",
-    "school-section-title-edit": "Edición de datos de un colegio",    
+    "school-section-title-edit": "Edición de datos de un colegio",
     "school-section-info-title": "Datos del colegio",
     "school-section-info-content": "Revise y complete los datos de perfil del colegio.",
     "school-section-access-subtitle": "Datos de acceso del coordinador:",
@@ -125,8 +125,10 @@
     "school-section-questionnaires-subtitle": "Cuestionarios asignados",
     "school-section-email-placeholder": "Correo electrónico",
     "school-section-password-placeholder": "Contraseña",
+    "school-section-repeatpassword-placeholder": "Repetir contraseña",
     "school-section-contactname-placeholder": "Nombre del coordinador",
     "school-section-contactsurname-placeholder": "Apellidos del coordinador",
+    "school-section-contactemail-placeholder": "Correo electrónico de contacto",
     "school-section-code-placeholder": "Código de centro",
     "school-section-name-placeholder": "Nombre del colegio",
     "school-section-address-placeholder": "Dirección",
@@ -134,6 +136,7 @@
     "school-section-province-placeholder": "Provincia",
     "school-section-country-placeholder": "País",
     "school-section-zipcode-placeholder": "Código postal",
+    "school-section-numstudents-placeholder": "Número de alumnos",
     "school-section-child-placeholder": "Educación infantil",
     "school-section-primary-placeholder": "Educación primaria",
     "school-section-secondary-placeholder": "Educación secundaria",
@@ -141,8 +144,8 @@
     "school-section-accept-cond-link": "(Ver términos y condiciones)",
     "school-section-button-new": "Guardar Datos",
     "school-section-button-edit": "Guardar cambios",
-    "school-section-signup-ok": "Estimado/a {{name}} {{surname}}, <br /><br /> Hemos recibido correctamente toda la información de su colegio. A partir de este momento queda registrado en nuestro programa. <br /><br /> Muchas gracias por su participación.",    
-    
+    "school-section-signup-ok": "Estimado/a {{name}} {{surname}}, <br /><br /> Hemos recibido correctamente toda la información de su colegio. A partir de este momento queda registrado en nuestro programa. <br /><br /> Muchas gracias por su participación.",
+
     "student-survey-section-success": "Estimado alumno/a, <br /><br /> Hemos recibido correctamente todas las respuestas de este cuestionario. Muchas gracias por participar en el programa contra el bullying de la Fundacion Barça. <br /><br />",
 
     "profile-section-user-title": "Editar mis datos de usuario",
@@ -221,5 +224,6 @@
     "validation-max-length-exceeded": "La longitud máxima es de {{maxLength}} caracteres",
     "validation-assigned-questionnaires-required": "Debe seleccionar al menos 2 questionarios opcionales",
     "validation-assigned-questionnaires-conflict": "Los cursos de los cuestionarios asignados no pueden solaparse",
-    "validation-school-code-not-allowed": "Código de colegio no registrado en el programa"
+    "validation-school-code-not-allowed": "Código de colegio no registrado en el programa",
+    "validation-password-match": "Las contraseñas introducidas deben coincidir"
 }
