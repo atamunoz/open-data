@@ -58,7 +58,7 @@
     "access-code-error-dialog-message": "El código de acceso {{code}} no es válido",
     "access-survey-error-dialog-message": "Atención: actualmente no existe una recogida activa, por lo que no se puede acceder a la cumplimentación de cuestionarios. Por favor, vuelva a intentarlo cuando se haya iniciado la siguiente recogida. Gracias.",
 
-    "school-code-exists-dialog-message": "Atención: Ya existe un colegio registrado con el código especificado. Por favor, revise dicho código y, si el problema persiste, póngase en contacto con nuestra dirección de soporte: infobull@uco.es.",
+    "school-code-exists-dialog-message": "Atención: Ya existe un colegio registrado con el código especificado. Por favor, revise dicho código y, si el problema persiste, póngase en contacto con nuestra dirección de soporte: campus_contraelbullying@fcbarcelona.cat.",
 
     "login-title": "Acceso de usuario",
     "login-user": "Usuario",
