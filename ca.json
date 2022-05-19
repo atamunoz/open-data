@@ -178,7 +178,7 @@
     "school-crud-edit-instructions": "Modifiqueu les dades desitjades de l'escola. És important destacar que l'email de l'coordinador no es pot alterar",
     "school-crud-list-title": "Llistat d'escoles registrats",
     "schools-crud-report-button": "Veure informes",
-    "schools-crud-filter-label": "Veure només inscrits a",
+    "schools-crud-filter-label": "Filtrar inscrits a",
     "school-crud-course-select-placeholder": "Curs acadèmic...",
 
     "survey-answers-list-title": "Llistat de participacions i respostes",

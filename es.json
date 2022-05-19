@@ -178,7 +178,7 @@
     "school-crud-edit-instructions": "Modifique los datos deseados del colegio. Es importante destacar que el email del coordinador no se puede alterar",
     "school-crud-list-title": "Listado de colegios registrados",
     "schools-crud-report-button": "Ver informes",
-    "schools-crud-filter-label": "Ver solo inscritos en",
+    "schools-crud-filter-label": "Filtrar inscritos en",
     "school-crud-course-select-placeholder": "Curso académico...",
 
     "survey-answers-list-title": "Listado de participaciones y respuestas",
