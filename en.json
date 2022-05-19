@@ -177,6 +177,9 @@
     "school-crud-edit-title": "Modify school data",
     "school-crud-edit-instructions": "Modify the desired data of the school. Importantly, the coordinator's email cannot be altered",
     "school-crud-list-title": "List of registered schools",
+    "schools-crud-report-button": "View reports",
+    "schools-crud-filter-label": "Filter by registration",
+    "school-crud-course-select-placeholder": "Select course...",
 
     "survey-answers-list-title": "List of participants and answers",
     "survey-answers-to-date-label": "  to  ",
